@@ -1,38 +1,42 @@
-address: 
-  - Address Line 1
-  - Address Line 2
-  - City, State, AZ 12345
+address:
+- 6075 S. Innovation Way West
+- Mesa, AZ 85212
 
-phone: 480-727-1234  
+phone: 480-727-1127
 
-email: email@asu.edu
+email: Thomas.Sugar@asu.edu
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
-    scope:
+      layout: page
+      image:
+        feature: robotics_lab-10.jpg
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "post"      
+      layout: "post"
 
-base_path: ""
+base_path: "/hmil"
 
 kramdown:
   input: GFM
   auto_ids: true
 highlighter: pygments
 
-organization_name: Your Organization Name
-title: Your Site Title
+organization_name: Human Machine Integration Lab
+title: Human Machine Integration Lab
+
+exclude: [vendor]
 
 menu:
-  - name: Test1
-    link: test1
-  - name: Test2
-    link: test2
-    
+  - name: Projects
+    link: projects
+  - name: Publications
+    link: publications
+  - name: People
+    link: people
+
 tags: a,b,c,d
