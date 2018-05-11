@@ -54,3 +54,5 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 * Sept 1, 2017 - Something happened
 * Sept 1, 2017 - Something else happened
 * Sept 1, 2017 - A third thing happened
+
+![Tom doing things](assets/images/robotics_lab-5.jpg)
