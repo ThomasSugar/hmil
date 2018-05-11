@@ -2,7 +2,7 @@
 title: People
 ---
 
-## Tom Sugar, Ph.D., PE, Principal Investigator, [CV](cv.pdf)
+## Tom Sugar, Ph.D., PE, Principal Investigator, [CV](cvsugar.pdf)
 <div class="row">
 <img src="{{ site.base_path }}/assets/images/tom_headshot.jpg" height="300px" align="left">
 
@@ -36,7 +36,26 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Robert Holgate, PhD in Mechanical Engineering, graduated 2017
 
 * Anthony Suluh, MS in Mechanical Engineering, graduated 2001
-* Anthony Suluh, MS in Mechanical Engineering, graduated 2001
+* Keshav Munhdra, MS in Mechanical Engineering, graduated 2002
+* Dhiraj Nahar, MS in Mechanical Engineering, graduated 2002
+* Kiran Shivanna, MS in Mechanical Engineering, graduated 2003
+* Zheng Wang, MS in Mechanical Engineering, graduated 2003
+* Kartik Bharadwaj, MS in Mechanical Engineering, graduated 2005
+* Chitralekha Nahar, MS in Mechanical Engineering, graduated 2005
+* Abhay Paranjape, MS in Mechanical Engineering, graduated 2006
+* Sukumar Srikant, MS in Mechanical Engineering, graduated 2006
+* Aykut Mehmet Oymagil, MS in Mechanical Engineering, graduated 2006
+* Jeffrey A. Ward, MS in Mechanical Engineering, graduated 2007
+* Don Briner, MS in Mechanical Engineering, graduated 2008
+* Alex Boehler, MS in Mechanical Engineering, graduated 2008
+* Ryan Bellman, MS in Mechanical Engineering, graduated 2008
+* Ashish Sardhara, MS in Mechanical Engineering, graduated 2009
+* Adam Fronczyk, MS in Mechanical Engineering, graduated 2012
+* Chase Wheeler, MS in Mechanical Engineering, graduated 2014
+* Jason Kerestes, MS in Mechanical Engineering, graduated 2014
+* Andrew Bates, MS in Mechanical Engineering, graduated 2015
+* Philip New, MS in Mechanical Engineering, graduated 2015
+
 
 
 * Xiao Zhang, MSE in Mechanical Engineering, graduated 2005
