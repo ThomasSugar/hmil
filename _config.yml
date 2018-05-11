@@ -24,7 +24,7 @@ base_path: "/hmil"
 kramdown:
   input: GFM
   auto_ids: true
-highlighter: pygments
+highlighter: rouge
 
 organization_name: Human Machine Integration Lab
 title: Human Machine Integration Lab
