@@ -3,10 +3,10 @@ title: Projects
 description: This is text that can be customized
 ---
 
-## Gait Rehabilitation
+## Compliant Actuators
 
-## Angle Device
+## Prosthetics and Orthotics
 
-## Motion Capture
+## Exoskeletons
 
-## Powered Prostheses
+## Wearable Robotics
