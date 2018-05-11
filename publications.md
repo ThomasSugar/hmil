@@ -133,11 +133,6 @@ C74. T. G. Sugar and V. Kumar, "Control and coordination of multiple mobile robo
 
 C73. V. Kumar, T. G. Sugar, and G. Pfreundschuh, "A Three Degree-of-Freedom In-Parallel Actuated Manipulator," in 9th CISM-IFToMM Symposium on the Theory and Practice of Robot Manipulators, RoManSy 9, A. Morecki, G. Bianchi, and K. Jaworek, Eds. Udine, Italy: Springer-Verlag, pp. 217-226, 1992, ISBN 0-387-19834-2.
 
-	Published in Book
-C75. T. G. Sugar and M. Holgate, “Understanding Speed and Force Ratios for Compliant Mechanisms,” in Advances in Mechanisms, Robotics and Design Education and Research, Mechanisms and Machine Science 14, V. Kumar et al (Eds): Springer International Publishing, 2013, pp. 117-129. 
-C74. T. G. Sugar and V. Kumar, "Control and coordination of multiple mobile robots in manipulation and material handling tasks," in Experimental Robotics VI, vol. 250, Lecture Notes in Control and Information Sciences, P. Corke and J. Trevelyan, Eds.: Springer-Verlag, pp. 15-24, 2000, ISBN 1-85233-210-7.
-C73. V. Kumar, T. G. Sugar, and G. Pfreundschuh, "A Three Degree-of-Freedom In-Parallel Actuated Manipulator," in 9th CISM-IFToMM Symposium on the Theory and Practice of Robot Manipulators, RoManSy 9, A. Morecki, G. Bianchi, and K. Jaworek, Eds. Udine, Italy: Springer-Verlag, pp. 217-226, 1992, ISBN 0-387-19834-2.
-
 C72. Holgate, R., Thomas Sugar, “Decoupling Stiffness from Position in Joint Mechanisms: Applied to Powered Ankle Prosthesis,” ASME IDETC 2017.
 
 C71. Holgate, R., Thomas Sugar, Audrey Nash, Jasper Kianpour, Crag T. Johnson, Edwin, Santos, “A Passive Ankle-Foot Prosthesis with Energy return to Mimic Able-Bodied Gait,” ASME IDETC 2017.
