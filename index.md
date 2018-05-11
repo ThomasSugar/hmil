@@ -8,7 +8,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Wearable Assistive Devices</h3>
+        <h3 class="panel-title">Compliant Actuators</h3>
       </div>
       <div class="panel-body">
         Put details here
@@ -18,7 +18,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Topic 2</h3>
+        <h3 class="panel-title">Prosthetics and Orthotics</h3>
       </div>
       <div class="panel-body">
         Put details here
@@ -28,7 +28,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Topic 3</h3>
+        <h3 class="panel-title">Exoskeletons</h3>
       </div>
       <div class="panel-body">
         Put details here
@@ -38,7 +38,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
     <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Topic 4</h3>
+        <h3 class="panel-title">Wearable Robotics</h3>
       </div>
       <div class="panel-body">
         Put details here
@@ -51,8 +51,6 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 
 ## News
 
-* Sept 1, 2017 - Something happened
-* Sept 1, 2017 - Something else happened
-* Sept 1, 2017 - A third thing happened
+* xxx - xxx
 
 ![Tom doing things](assets/images/robotics_lab-5.jpg)
