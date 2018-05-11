@@ -56,7 +56,5 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Andrew Bates, MS in Mechanical Engineering, graduated 2015
 * Philip New, MS in Mechanical Engineering, graduated 2015
 
-
-
 * Xiao Zhang, MSE in Mechanical Engineering, graduated 2005
 * Bekele Atnafu, MSE in Mechanical Engineering, graduated 2005
