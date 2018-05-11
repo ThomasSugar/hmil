@@ -8,7 +8,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Topic 1</h3>
+        <h3 class="panel-title">Wearable Assistive Devices</h3>
       </div>
       <div class="panel-body">
         Put details here
