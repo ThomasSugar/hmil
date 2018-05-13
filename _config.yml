@@ -38,5 +38,7 @@ menu:
     link: publications
   - name: People
     link: people
+  - name: Media
+    link: media
 
 tags: a,b,c,d
