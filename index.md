@@ -41,7 +41,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Wearable Robotics</h3>
       </div>
       <div class="panel-body">
-        Put details here
+        <a href="http://www.wearablerobotics.com" title="WRA"> Wearable Robotics Association
       </div>
     </div>
   </div>
