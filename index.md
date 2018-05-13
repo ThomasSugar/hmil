@@ -51,8 +51,9 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 
 ## News
 
-* <a href="http://cdmrp.army.mil/pubs/video/op/jeff_ward_video.aspx" title="Ruggedized Ankle">
-  Dr. Jeff Ward designing a rugged, waterproof prosthetic ankle for walking and running  
+* Dr. Jeff Ward designing a rugged, waterproof <a href="http://cdmrp.army.mil/pubs/video/op/jeff_ward_video.aspx" title="Ruggedized Ankle"> prosthetic ankle for walking and running  
+  
+ <a href="https://www.facebook.com/selfmadeshow/videos/168740210356518"> Second video
 
 * <a href="https://exoskeletonreport.com/2018/03/wearracon18-day-one-report/" title="WearRAcon 2018">
 WearRAcon 2018
