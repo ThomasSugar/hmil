@@ -32,7 +32,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
       </div>
       <div class="panel-body">
         We designed hip exoskeletons, HeSA, AirLegs, PogoSuit
-        We use a Phase Oscillator Controller.  Check out our moves !(assets/videos/hesa moves.mov)
+        We use a Phase Oscillator Controller.  
       </div>
     </div>
   </div>
