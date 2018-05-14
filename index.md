@@ -11,7 +11,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Compliant Actuators</h3>
       </div>
       <div class="panel-body">
-        Put details here
+        Focused on spring based actuators using Equilibrium Controlled Stiffness and Structure Controlled Stiffness
       </div>
     </div>
   </div>
@@ -21,7 +21,11 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Prosthetics and Orthotics</h3>
       </div>
       <div class="panel-body">
-        Put details here
+        Designed powered prosthetic ankles and orthoses
+        
+        Co-investigator on projects to assist Stroke Survivors: RUPERT, Foot Mentor
+        
+        Co-founder of SpringActive, Inc
       </div>
     </div>
   </div>
@@ -32,6 +36,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
       </div>
       <div class="panel-body">
         We designed hip exoskeletons, HeSA, AirLegs, PogoSuit
+        
         We use a Phase Oscillator Controller.  
       </div>
     </div>
