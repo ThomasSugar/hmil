@@ -44,8 +44,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Wearable Robotics</h3>
       </div>
       <div class="panel-body">
-        * Wearable Robotics Association
-        * Designed a jetpack to enhance running
+        1. Wearable Robotics Association
+        2. Designed a jetpack to enhance running
       </div>
     </div>
   </div>
