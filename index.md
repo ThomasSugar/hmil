@@ -31,7 +31,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Exoskeletons</h3>
       </div>
       <div class="panel-body">
-        Put details here
+        We designed hip exoskeletons, HeSA, AirLegs, PogoSuit
+        We use a Phase Oscillator Controller.  Check out our moves (assets/videos/hesa.mov)
       </div>
     </div>
   </div>
