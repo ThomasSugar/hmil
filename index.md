@@ -56,6 +56,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 
 ## News
 
+* Can your exoskeleton make these moves?
+
 * <a href="https://exoskeletonreport.com/2018/03/wearracon18-day-one-report/" title="WearRAcon 2018">
 WearRAcon 2018
 
