@@ -58,6 +58,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 
 * Can your exoskeleton make these moves?
 
+* White Paper on Hip Exoskeletons 
+
 * <a href="https://exoskeletonreport.com/2018/03/wearracon18-day-one-report/" title="WearRAcon 2018">
 WearRAcon 2018
 
