@@ -21,8 +21,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Prosthetics and Orthotics</h3>
       </div>
       <div class="panel-body">
-        1. Designed powered prosthetic ankles and orthoses
-        2. Co-investigator on projects to assist Stroke Survivors: RUPERT and Foot Mentor
+        1. Designed powered prosthetic ankles and orthoses <br/>
+        2. Co-investigator on projects to assist Stroke Survivors: RUPERT and Foot Mentor <br/>
         3. Co-founder of SpringActive, Inc
       </div>
     </div>
@@ -33,7 +33,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Exoskeletons</h3>
       </div>
       <div class="panel-body">
-        1. We designed hip exoskeletons, HeSA, AirLegs, and PogoSuit
+        1. We designed hip exoskeletons, HeSA, AirLegs, and PogoSuit <br/>
         2. We use a Phase Oscillator Controller.  
       </div>
     </div>
@@ -44,7 +44,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Wearable Robotics</h3>
       </div>
       <div class="panel-body">
-        1. Wearable Robotics Association
+        1. Wearable Robotics Association <br/>
         2. Designed a jetpack to enhance running
       </div>
     </div>
