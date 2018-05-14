@@ -11,7 +11,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Compliant Actuators</h3>
       </div>
       <div class="panel-body">
-        Focused on spring based actuators using Equilibrium Controlled Stiffness and Structure Controlled Stiffness
+        * Focused on spring based actuators using Equilibrium Controlled Stiffness and Structure Controlled Stiffness
       </div>
     </div>
   </div>
@@ -21,11 +21,9 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Prosthetics and Orthotics</h3>
       </div>
       <div class="panel-body">
-        Designed powered prosthetic ankles and orthoses
-        
-        Co-investigator on projects to assist Stroke Survivors: RUPERT, Foot Mentor
-        
-        Co-founder of SpringActive, Inc
+        * Designed powered prosthetic ankles and orthoses
+        * Co-investigator on projects to assist Stroke Survivors: RUPERT, Foot Mentor
+        * Co-founder of SpringActive, Inc
       </div>
     </div>
   </div>
@@ -35,9 +33,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Exoskeletons</h3>
       </div>
       <div class="panel-body">
-        We designed hip exoskeletons, HeSA, AirLegs, PogoSuit
-        
-        We use a Phase Oscillator Controller.  
+        * We designed hip exoskeletons, HeSA, AirLegs, PogoSuit
+        * We use a Phase Oscillator Controller.  
       </div>
     </div>
   </div>
@@ -47,7 +44,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
         <h3 class="panel-title">Wearable Robotics</h3>
       </div>
       <div class="panel-body">
-        Wearable Robotics Association
+        * Wearable Robotics Association
+        * Designed a jetpack to enhance running
       </div>
     </div>
   </div>
