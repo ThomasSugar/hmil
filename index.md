@@ -34,7 +34,8 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
       </div>
       <div class="panel-body">
         1. We designed hip exoskeletons, HeSA, AirLegs, and PogoSuit <br/>
-        2. We use a Phase Oscillator Controller.  
+        2. We use a Phase Oscillator Controller. <br/>
+        3. Member of the ASTM F48 Committee
       </div>
     </div>
   </div>
@@ -55,10 +56,6 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 
 ## News
 
-* Dr. Jeff Ward designing a rugged, waterproof <a href="http://cdmrp.army.mil/pubs/video/op/jeff_ward_video.aspx" title="Ruggedized Ankle"> prosthetic ankle for walking and running  
-  
- <a href="https://www.facebook.com/selfmadeshow/videos/168740210356518"> Second video
-
 * <a href="https://exoskeletonreport.com/2018/03/wearracon18-day-one-report/" title="WearRAcon 2018">
 WearRAcon 2018
 
@@ -68,4 +65,10 @@ WearRAcon 2017
 * <a href="https://exoskeletonreport.com/2016/02/wearracon16_day_1_report/" title="WearRAcon 2016">
 WearRAcon 2016
 
+* Dr. Jeff Ward designing a rugged, waterproof <a href="http://cdmrp.army.mil/pubs/video/op/jeff_ward_video.aspx" title="Ruggedized Ankle"> prosthetic ankle for walking and running  <br/>
+  
+ <a href="https://www.facebook.com/selfmadeshow/videos/168740210356518"> Second video <br/>
+ 
+ * <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
+  
 ![Tom doing things](assets/images/robotics_lab-5.jpg)
