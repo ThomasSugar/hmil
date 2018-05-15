@@ -19,7 +19,7 @@ description:
   
 * <a href="http://www.businessinsider.com/pentagon-iron-man-exosuit-making-strides-2016-9" > Warrior Web Program
   
-#### WearRAcon 17
+##### WearRAcon 17
 
 * <a href="https://asunow.asu.edu/20170414-asu-engineering-professor-tom-sugar-explores-next-step-wearable-robotics-wearracon17" > WearRAcon 17
   
@@ -31,6 +31,20 @@ description:
 
 * <a href="https://www.popularmechanics.com/military/research/a11673/the-iron-man-suit-in-real-life-is-coming-darpa-17493769/" > Popular Mechanics
 
+### Pogosuit
+
+* <a href="https://asunow.asu.edu/20170414-solutions-pogo-pack-asu-innovator-creates-wearable-trail-tech-%E2%80%94-and-we-put-it-test" > Pogosuit testing on the Peralta Trail
+
+* <a href="https://www.youtube.com/watch?v=JtBzph2ptMg&feature=youtu.be" > Pogosuit
+
+### Powered Prosthetic Ankle
+
+* <a href="https://www.youtube.com/watch?v=vLQrAnU0KB8" > SPARKy, Spring Ankle with Regenerative Kinetics
+
+* <a href="https://www.youtube.com/watch?v=bSUYTEJDiNE" > SPARKy, very first steps
+
+* <a href="https://www.youtube.com/watch?v=hNEnCfkxGzU" > Rugged Ankle
+  
 ### Jetpack
 
 * <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
@@ -38,7 +52,6 @@ description:
 * <a href="https://vimeo.com/154121885" title="ASU Jetpack2"> ASU Jetpack
 
 * <a href="http://kjzz.org/content/71534/asu-researchers-develop-jetpack-technology-help-ground-troop-mobility" > KJZZ story
-
 
 * <a href="https://www.redorbit.com/news/technology/1113233473/jetpack-and-exoskeleton-receive-darpa-funding-091414/" > ASU Jetpack
 
