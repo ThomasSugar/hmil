@@ -19,9 +19,9 @@ description:
   
 * <a href="http://www.businessinsider.com/pentagon-iron-man-exosuit-making-strides-2016-9" > Warrior Web Program
   
-### AirLegs on CBS
+### AirLegs
 
-* <a href="https://www.cbsnews.com/news/militarys-darpa-lab-creates-wearable-robot-to-help-soldiers-run-faster/" title="ASU AirLegs"> ASU Airlegs
+* <a href="https://www.cbsnews.com/news/militarys-darpa-lab-creates-wearable-robot-to-help-soldiers-run-faster/" title="ASU AirLegs"> ASU Airlegs, CBS Good Morning News
 
 * <a href="https://www.popularmechanics.com/military/research/a11673/the-iron-man-suit-in-real-life-is-coming-darpa-17493769/" > Popular Mechanics
 
