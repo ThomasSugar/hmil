@@ -56,7 +56,7 @@ description: Robotic orthoses, prostheses, and wearable robots for enhanced mobi
 
 ## News
 
-* Can your exoskeleton make these moves?
+* Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
 * White Paper on [Hip Exoskeletons](White Paper WRA final.pdf) 
 
