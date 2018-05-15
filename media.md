@@ -19,6 +19,12 @@ description:
   
 * <a href="http://www.businessinsider.com/pentagon-iron-man-exosuit-making-strides-2016-9" > Warrior Web Program
   
+#### WearRAcon 17
+
+* <a href="https://asunow.asu.edu/20170414-asu-engineering-professor-tom-sugar-explores-next-step-wearable-robotics-wearracon17" > WearRAcon 17
+  
+* <a href="http://www.fox10phoenix.com/news/arizona-news/worldwide-companies-show-off-new-inventions-in-phoenix" > WearRAcon 17
+  
 ### AirLegs
 
 * <a href="https://www.cbsnews.com/news/militarys-darpa-lab-creates-wearable-robot-to-help-soldiers-run-faster/" title="ASU AirLegs"> ASU Airlegs, CBS Good Morning News
