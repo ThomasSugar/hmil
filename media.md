@@ -19,7 +19,7 @@ description:
   
 * <a href="http://www.businessinsider.com/pentagon-iron-man-exosuit-making-strides-2016-9" > Warrior Web Program
   
-##### WearRAcon 17
+### WearRAcon 17
 
 * <a href="https://asunow.asu.edu/20170414-asu-engineering-professor-tom-sugar-explores-next-step-wearable-robotics-wearracon17" > WearRAcon 17
   
