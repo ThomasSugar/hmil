@@ -11,19 +11,19 @@ description:
   
 ### Wearable Robots
 
-* <a href="https://www.abc15.com/news/region-southeast-valley/tempe/arizona-state-university-professor-proving-robots-arent-a-threat-to-humans-in-the-workplace > Exoskeletons for Industry
+* <a href="https://www.abc15.com/news/region-southeast-valley/tempe/arizona-state-university-professor-proving-robots-arent-a-threat-to-humans-in-the-workplace" > Exoskeletons for Industry
   
-* <a href="http://www.statepress.com/article/2015/10/asu-iron-man-lab-creates-change > Exos in the lab
+* <a href="http://www.statepress.com/article/2015/10/asu-iron-man-lab-creates-change" > Exos in the lab
   
-* <a href="http://www.nationaldefensemagazine.org/articles/2016/8/1/2016august-how-technology-could-create-super-soldiers > Exos for enhanced strength and movement
+* <a href="http://www.nationaldefensemagazine.org/articles/2016/8/1/2016august-how-technology-could-create-super-soldiers" > Exos for enhanced strength and movement
   
-* <a href="http://www.nationaldefensemagazine.org/articles/2016/8/1/2016august-how-technology-could-create-super-soldiers > Warrior Web Program
+* <a href="http://www.nationaldefensemagazine.org/articles/2016/8/1/2016august-how-technology-could-create-super-soldiers" > Warrior Web Program
   
 ### AirLegs on CBS
 
 * <a href="https://www.cbsnews.com/news/militarys-darpa-lab-creates-wearable-robot-to-help-soldiers-run-faster/" title="ASU AirLegs"> ASU Airlegs
 
-* <a href="https://www.popularmechanics.com/military/research/a11673/the-iron-man-suit-in-real-life-is-coming-darpa-17493769/ > Popular Mechanics
+* <a href="https://www.popularmechanics.com/military/research/a11673/the-iron-man-suit-in-real-life-is-coming-darpa-17493769/" > Popular Mechanics
 
 ### Jetpack
 
