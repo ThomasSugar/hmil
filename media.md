@@ -11,7 +11,7 @@ description:
 
 ### Jetpack
 
-* <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack
+* <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
 
 * <a href="https://vimeo.com/154121885" title="ASU Jetpack2"> ASU Jetpack
 
