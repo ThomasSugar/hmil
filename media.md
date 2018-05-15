@@ -17,7 +17,7 @@ description:
   
 * <a href="http://www.nationaldefensemagazine.org/articles/2016/8/1/2016august-how-technology-could-create-super-soldiers" > Exos for enhanced strength and movement
   
-* <a href="http://www.nationaldefensemagazine.org/articles/2016/8/1/2016august-how-technology-could-create-super-soldiers" > Warrior Web Program
+* <a href="http://www.businessinsider.com/pentagon-iron-man-exosuit-making-strides-2016-9" > Warrior Web Program
   
 ### AirLegs on CBS
 
