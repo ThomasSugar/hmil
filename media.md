@@ -32,6 +32,8 @@ description:
 * <a href="https://www.popularmechanics.com/military/research/a11673/the-iron-man-suit-in-real-life-is-coming-darpa-17493769/" > Popular Mechanics
   
 * <a href="https://www.youtube.com/watch?v=qsQK979_XBs" > Airlegs
+  
+* <a href="https://hackaday.com/2014/09/07/airlegs-augment-your-cardio-by-10/" > Multiple videos
 
 ### Pogosuit
 
