@@ -1,6 +1,35 @@
 ---
 title: Human Machine Integration Lab
 description: Robotic orthoses, prostheses, and wearable robots for enhanced mobility
+carousel-images:
+  - file: DiscoverEDay-2016-Poly-9642a.jpg
+    caption: DiscoverE Day 2016
+  - file: 20160901PanagiotisArtemiadis03.jpg
+    caption: Professor Artemiadis
+  - file: 2016-12-02 16.49.57.jpg
+    caption: Foldable Robots at the Polytechnic Innovation Showcase
+  - file: 2016-10-14 15.07.51.jpg
+    caption: Foldable Robotics workshop at IROS 2016
+  - file: DiscoverEDay-2016-Poly-9628a.jpg
+    caption: DiscoverE Day 2016
+  - file: DiscoverEDay-2016-Poly-9637a.jpg
+    caption: DiscoverE Day 2016
+  - file: DiscoverEDay-2016-Poly-9693a.jpg
+    caption: DiscoverE Day 2016
+  - file: 12973087_10207425984500397_2859409810083467075_o.jpg
+    caption: Professor Heni Ben Amor's Lab
+  - file: 13217446_10207661186940311_4240935783057552354_o.jpg
+    caption: Professor Heni Ben Amor's Lab
+  - file: DSCF6893small.jpg
+    caption: ""
+  - file: vlcsnap-2015-04-01-09h59m23s59.png
+    caption: "Wall Climbing robot."
+  - file: IMG_20160727_122058653.jpg
+    caption: ""
+  - file: Mind Drones.00_03_24_28.Still003.jpg
+    caption: ""
+  - file: POLY-Panos-Polygerinos-Lab3523a.jpg
+    caption: ""
 ---
 ## Research Thrusts
 
@@ -86,3 +115,41 @@ WearRAcon 2016
 ![Tom](assets/images/robotics_lab-5.jpg)
 
 ![Tom](assets/images/robotics_lab-10.jpg)
+
+
+
+<div class="row">
+  <div class="col-sm-2"></div>
+  <div class="col-sm-8">
+    <div id="carousel-example-generic" class="carousel slide"  data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+      {% for item in page.carousel-images %}
+      {% capture ii %}{{ forloop.index0 }}{% endcapture %}
+        <li data-target="#carousel-example-generic" data-slide-to="{{ii}}"{% if ii == '0' %} class="active"{% endif %}></li>
+      {%endfor%}
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        {% for item in page.carousel-images %}
+          {% capture ii %}{{ forloop.index0 }}{% endcapture %}
+          <div class="item{% if ii == '0' %} active{% endif %}">
+            <img src="{{site.base_path}}/assets/carousels/homepage/{{item.file}}" alt="...">
+            <div class="carousel-caption">
+              {{item.caption}}
+            </div>
+          </div>
+        {%endfor%}
+      </div>
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+</div>
