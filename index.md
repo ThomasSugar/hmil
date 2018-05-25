@@ -83,4 +83,5 @@ WearRAcon 2016
 <!--    {% endif %} -->
 <!-- {% endfor %} -->
 
+(assets/images/robotics_lab-5.jpg)
 
