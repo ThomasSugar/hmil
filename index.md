@@ -2,12 +2,18 @@
 title: Human Machine Integration Lab
 description: Robotic orthoses, prostheses, and wearable robots for enhanced mobility
 carousel-images:
-  - file: "assets/images/robotics_lab-5.jpg"
-    caption: ASU Cooler Suit
-  - file: "assets/images/robotics_lab-10.jpg"
-    caption: ASU Jetpack
   - file: "assets/images/sparky ankle.jpg"
     caption: SPARKy - Spring Ankle with Regenerative Kinetics
+  - file: "assets/images/robotics_lab-3.jpg"
+    caption: SPARKy
+  - file: "assets/images/robotics_lab-10.jpg"
+    caption: ASU Jetpack
+  - file: "assets/images/jetpack2.jpg"
+    caption: ASU Jetpack
+  - file: "assets/images/spiderman.jpg"
+    caption: ASU Spiderman Suit
+  - file: "assets/images/robotics_lab-5.jpg"
+    caption: ASU Cooler Suit
 ---
 
 <style type="text/css">
