@@ -75,6 +75,6 @@ WearRAcon 2016
  * <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
 
 {% comment %}
-{% ![Tom doing things](assets/images/robotics_lab-5.jpg) %}
+ ![Tom doing things](assets/images/robotics_lab-5.jpg) 
 {% endcomment %}
 
