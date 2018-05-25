@@ -3,9 +3,9 @@ title: Human Machine Integration Lab
 description: Robotic orthoses, prostheses, and wearable robots for enhanced mobility
 carousel-images:
   - file: "assets/images/robotics_lab-5.jpg"
-    caption: cap1
+    caption: ASU Cooler Suit
   - file: "assets/images/robotics_lab-10.jpg"
-    caption: cap2
+    caption: ASU Jetpack
 ---
 
 <style type="text/css">
@@ -86,18 +86,6 @@ WearRAcon 2016
 
 
 <!-- ![Tom doing things](assets/images/robotics_lab-5.jpg)  -->
-
-<!-- {% for image in site.static_files %} -->
-<!--    {% if image.path contains 'images' %} -->
-<!--        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" /> -->
-<!--    {% endif %} -->
-<!-- {% endfor %} -->
-
-![Tom](assets/images/robotics_lab-5.jpg)
-
-![Tom](assets/images/robotics_lab-10.jpg)
-
-
 
 <div class="row">
   <div class="col-sm-2"></div>
