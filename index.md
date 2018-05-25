@@ -6,6 +6,8 @@ carousel-images:
     caption: ASU Cooler Suit
   - file: "assets/images/robotics_lab-10.jpg"
     caption: ASU Jetpack
+  - file: "assets/images/sparky ankle.jpg"
+    caption: SPARKy - Spring Ankle with Regenerative Kinetics
 ---
 
 <style type="text/css">
