@@ -73,5 +73,8 @@ WearRAcon 2016
 <a href="https://www.facebook.com/selfmadeshow/videos/168740210356518"> Second video <br/>
  
  * <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
-  
-![Tom doing things](assets/images/robotics_lab-5.jpg)
+
+{% comment %}
+{% ![Tom doing things](assets/images/robotics_lab-5.jpg) %}
+{% endcomment %}
+
