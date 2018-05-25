@@ -77,4 +77,9 @@ WearRAcon 2016
 
 <!-- ![Tom doing things](assets/images/robotics_lab-5.jpg)  -->
 
+{% for image in site.static_files %}
+    {% if image.path contains 'images/slider' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
 
