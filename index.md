@@ -7,6 +7,11 @@ carousel-images:
   - file: "assets/images/robotics_lab-10.jpg"
     caption: cap2
 ---
+
+<style type="text/css">
+  .carousel-caption {bottom:30px;}
+</style>
+
 ## Research Thrusts
 
 <div class="row" >
