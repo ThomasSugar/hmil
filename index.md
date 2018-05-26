@@ -75,7 +75,8 @@ carousel-images:
 ## News
 
 <p>Learn more about robotics faculty and research at <a href="http://robotics.asu.edu/">http://robotics.asu.edu/</a></p>
-<p style="text-align: center;"><a href='http://robotics.asu.edu/' class='btn btn-lg btn-primary' target="_blank">Visit ASU Robotics!</a></p>
+
+<p>Learn more about MS in Robotic at <a href="http://ras.engineering.asu.edu/">http://ras.engineering.asu.edu/</a></p>
 
 * Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
