@@ -74,6 +74,9 @@ carousel-images:
 
 ## News
 
+<p>Learn more about robotics faculty and research at <a href="http://robotics.asu.edu/">http://robotics.asu.edu/</a></p>
+<p style="text-align: center;"><a href='http://robotics.asu.edu/' class='btn btn-lg btn-primary' target="_blank">Visit ASU Robotics!</a>
+
 * Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
 * White Paper on [Hip Exoskeletons](White Paper WRA final.pdf) 
