@@ -5,6 +5,30 @@ description:
 
 ## In the Press
 
+### Jetpack
+
+* <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
+
+* <a href="https://vimeo.com/154121885" title="ASU Jetpack2"> ASU Jetpack
+
+* <a href="http://kjzz.org/content/71534/asu-researchers-develop-jetpack-technology-help-ground-troop-mobility" > KJZZ story
+
+* <a href="https://www.redorbit.com/news/technology/1113233473/jetpack-and-exoskeleton-receive-darpa-funding-091414/" > ASU Jetpack
+
+* <a href="https://www.richarddawkins.net/2014/09/jetpack-keeps-you-grounded-but-faster/" > ASU Jetpack
+
+* <a href="http://www.statepress.com/article/2014/09/asu-student-develops-4mm-jetpack-that-blows-people-away" > ASU Jetpack
+
+* <a href="https://www.pcmag.com/article2/0,2817,2468458,00.asp" > ASU Jetpack
+
+* <a href="https://www.runnersworld.com/newswire/jetpack-said-to-improve-running-speed" > ASU Jetpack
+
+* <a href="https://www.engadget.com/2014/09/13/darpa-jetpack-soldiers-runner/" > ASU Jetpack, engadget
+
+* <a href="https://hackaday.com/2014/09/06/finally-a-working-jet-pack/" > ASU Jetpack, hackaday
+
+* <a href="https://www.si.com/edge/video/2014/11/20/edge-asu-scientist-builds-real-life-jetpack-for-runners" > ASU Jetpack, Sports Illustrated
+
 ### ASU Press
 
 * <a href="https://asunow.asu.edu/20170207-solutions-rehab-robotics-field-promises-return-control-mobility-aging-population" > Rehabilitation Robotics
@@ -35,12 +59,6 @@ description:
   
 * <a href="https://hackaday.com/2014/09/07/airlegs-augment-your-cardio-by-10/" > Multiple videos
 
-### Pogosuit
-
-* <a href="https://asunow.asu.edu/20170414-solutions-pogo-pack-asu-innovator-creates-wearable-trail-tech-%E2%80%94-and-we-put-it-test" > Pogosuit testing on the Peralta Trail
-
-* <a href="https://www.youtube.com/watch?v=JtBzph2ptMg&feature=youtu.be" > Pogosuit
-
 ### Powered Prosthetic Ankle
 
 * <a href="https://www.youtube.com/watch?v=vLQrAnU0KB8" > SPARKy, Spring Ankle with Regenerative Kinetics
@@ -48,6 +66,12 @@ description:
 * <a href="https://www.youtube.com/watch?v=bSUYTEJDiNE" > SPARKy, very first steps
 
 * <a href="https://www.youtube.com/watch?v=hNEnCfkxGzU" > Rugged Ankle
+
+### Pogosuit
+
+* <a href="https://asunow.asu.edu/20170414-solutions-pogo-pack-asu-innovator-creates-wearable-trail-tech-%E2%80%94-and-we-put-it-test" > Pogosuit testing on the Peralta Trail
+
+* <a href="https://www.youtube.com/watch?v=JtBzph2ptMg&feature=youtu.be" > Pogosuit
   
 ### Spiderman Suit
 
@@ -57,26 +81,3 @@ description:
 
 * <a href="https://vimeo.com/124718983" > Cooling Suit
   
-### Jetpack
-
-* <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
-
-* <a href="https://vimeo.com/154121885" title="ASU Jetpack2"> ASU Jetpack
-
-* <a href="http://kjzz.org/content/71534/asu-researchers-develop-jetpack-technology-help-ground-troop-mobility" > KJZZ story
-
-* <a href="https://www.redorbit.com/news/technology/1113233473/jetpack-and-exoskeleton-receive-darpa-funding-091414/" > ASU Jetpack
-
-* <a href="https://www.richarddawkins.net/2014/09/jetpack-keeps-you-grounded-but-faster/" > ASU Jetpack
-
-* <a href="http://www.statepress.com/article/2014/09/asu-student-develops-4mm-jetpack-that-blows-people-away" > ASU Jetpack
-
-* <a href="https://www.pcmag.com/article2/0,2817,2468458,00.asp" > ASU Jetpack
-
-* <a href="https://www.runnersworld.com/newswire/jetpack-said-to-improve-running-speed" > ASU Jetpack
-
-* <a href="https://www.engadget.com/2014/09/13/darpa-jetpack-soldiers-runner/" > ASU Jetpack, engadget
-
-* <a href="https://hackaday.com/2014/09/06/finally-a-working-jet-pack/" > ASU Jetpack, hackaday
-
-* <a href="https://www.si.com/edge/video/2014/11/20/edge-asu-scientist-builds-real-life-jetpack-for-runners" > ASU Jetpack, Sports Illustrated
