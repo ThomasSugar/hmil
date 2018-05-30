@@ -8,12 +8,15 @@ Co-founded Wearable Robotics Association <a href="http://www.wearablerobotics.co
 Please see our HESA, Airlegs, and RUPERT devices
 
 ## Jetpack
+![jetpack](assets/images/jetpack2.jpg)
 
 ## Pogosuit
 
 ## Cooling Suit
+![cooling suit](assets/images/robotics_lab-5.jpg)
 
 ## Spiderman Suit
+![spiderman](assets/images/spiderman.jpg)
 
 ## Sit to Stand
 
@@ -25,4 +28,4 @@ Please see our HESA, Airlegs, and RUPERT devices
 
 Developed a soft exoskeleton to enhance running
 
-![Airlegs](assets/images/airlegs.png)
+
