@@ -32,13 +32,13 @@ Mass oscillates up and down with your motion
 ### Sit to Stand
 Adjustable leaf springs were used to assist when moving from a sitting position to a standing position
 
-![sit to stand](assets/images/sit to stand.png)
+<img src="assets/images/sit to stand.png" width="600">
 
 ### Spring Loaded Knee
 A Jack Spring actuator was mounted across the knee. The stiffness could be adjusted quickly from soft to very stiff.
 
-![knee](assets/images/knee.png)
+<img src="assets/images/knee.png" width="600">
 
 ### Energy Harvesting Ankle - Work with SpringActive and Dr. Joseph Hitt
 
-![spark ankle](assets/images/energy harvesting ankle.png)
+<img src="assets/images/energy harvesting ankle.png" width="600">
