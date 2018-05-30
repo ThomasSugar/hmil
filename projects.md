@@ -11,7 +11,7 @@ At the Human Machine Integration Laboratory, we develop systems that aid and enh
 
 <p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/exo' class='btn btn-lg btn-primary' target="_blank">Exoskeletons</a></p>
 
-## Wearable Robotics
+<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/wearable' class='btn btn-lg btn-primary' target="_blank">Wearable Robotics</a></p>
 
 Co-founded SpringActive, Inc http://www.springactive.com
 
