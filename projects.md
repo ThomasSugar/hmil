@@ -14,9 +14,11 @@ At the Human Machine Integration Laboratory, we develop systems that aid and enh
 ## Wearable Robotics
 
 Co-founded SpringActive, Inc http://www.springactive.com
+
 Co-founded Wearable Robotics Association http://www.wearablerobotics.com
 
 Worked with GoX Studio http://www.goxstudio.com
+
 Worked on the original Foot Mentor design with Kinetic Muscles, Inc 
 
 
