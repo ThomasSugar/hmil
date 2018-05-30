@@ -30,7 +30,7 @@ Mass oscillates up and down with your motion
 ![spiderman](assets/images/spiderman.jpg)
 
 # Sit to Stand
-Adjustable leaf sprigns would used to assist when moving from a sitting position to a standing position
+Adjustable leaf springs were used to assist when moving from a sitting position to a standing position
 
 ![sit to stand](assets/images/sit to stand.png)
 
