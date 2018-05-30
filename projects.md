@@ -7,7 +7,7 @@ At the Human Machine Integration Laboratory, we develop systems that aid and enh
 
 <p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/compliant' class='btn btn-lg btn-primary' target="_blank">Compliant Actuators</a></p>
 
-## Prosthetics and Orthotics
+<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/prosthetic' class='btn btn-lg btn-primary' target="_blank">Prosthetics and Orthotics</a></p>
 
 ## Exoskeletons
 
