@@ -33,5 +33,6 @@ Mass oscillates up and down with your motion
 
 ## Spring Loaded Knee
 
-## Energy Harvesting Ankle
+## Energy Harvesting Ankle - Work with SpringActive and Dr. Joseph Hitt
 
+![spark ankle](assets/images/energy harvesting ankle.png)
