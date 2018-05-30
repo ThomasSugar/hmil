@@ -7,11 +7,19 @@ Co-founded Wearable Robotics Association <a href="http://www.wearablerobotics.co
 
 Please see our HESA, Airlegs, and RUPERT devices
 
+## Jetpack
+
 ## Pogosuit
+
+## Cooling Suit
+
+## Spiderman Suit
 
 ## Sit to Stand
 
 ## Spring Loaded Knee
+
+## Energy Harvesting Ankle
 
 
 
