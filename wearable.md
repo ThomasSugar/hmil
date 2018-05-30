@@ -14,31 +14,31 @@ Enhance running with the wind at your back
 
 <img src="assets/images/jetpack2.jpg" width="600">
 
-# Pogosuit
+### Pogosuit
 Mass oscillates up and down with your motion
 
 * <a href="https://asunow.asu.edu/20170414-solutions-pogo-pack-asu-innovator-creates-wearable-trail-tech-%E2%80%94-and-we-put-it-test" > Pogosuit testing on the Peralta Trail
 
-![pogosuit](assets/images/pogosuit.png)
+<img src="assets/images/pogosuit.png" width="600">
 
-# Cooling Suit - Dr. Sangram Redkar was the PI
-![cooling suit](assets/images/robotics_lab-5.jpg)
+### Cooling Suit - Dr. Sangram Redkar was the PI
+<img src="assets/images/robotics_lab-5.jpg" width="600">
 
-# Spiderman Suit - Dr. Sangram Redkar was the PI
+### Spiderman Suit - Dr. Sangram Redkar was the PI
 * <a href="https://vimeo.com/55449506" > Spiderman suit
 
-![spiderman](assets/images/spiderman.jpg)
+<img src="assets/images/spiderman.jpg" width="600">
 
-# Sit to Stand
+### Sit to Stand
 Adjustable leaf springs were used to assist when moving from a sitting position to a standing position
 
 ![sit to stand](assets/images/sit to stand.png)
 
-# Spring Loaded Knee
+### Spring Loaded Knee
 A Jack Spring actuator was mounted across the knee. The stiffness could be adjusted quickly from soft to very stiff.
 
 ![knee](assets/images/knee.png)
 
-# Energy Harvesting Ankle - Work with SpringActive and Dr. Joseph Hitt
+### Energy Harvesting Ankle - Work with SpringActive and Dr. Joseph Hitt
 
 ![spark ankle](assets/images/energy harvesting ankle.png)
