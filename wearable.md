@@ -32,6 +32,9 @@ Mass oscillates up and down with your motion
 # Sit to Stand
 
 # Spring Loaded Knee
+A Jack Spring actuator was mounted across the knee. The stiffnes could be adjusted quickly from soft to very stiff.
+
+![knee](assets/images/knee.png)
 
 # Energy Harvesting Ankle - Work with SpringActive and Dr. Joseph Hitt
 
