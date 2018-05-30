@@ -21,5 +21,9 @@ A nut is actively driven into the helical pattern of coil spring.  The spring st
 
 Change the length of the leaf spring [Length](scs slide1.png)
 
-Rotate a leaf spring to chagne the structure [Rotate](scs slide2.png)
+Rotate a leaf spring to chagne the structure 
+
+<!-- ![Tom doing things](assets/images/robotics_lab-5.jpg)  -->
+<!-- [Rotate](scs slide2.png) -->
+![Rotate a spring](scs slide2.png)
 
