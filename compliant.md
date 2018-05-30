@@ -9,6 +9,8 @@ Control the input side of the spring to adjust the virtual stiffness and pre-loa
 
 We designed a robotic tendon actuator for powered prostheses and orthoses
 
+[eqn](ecs.png)
+
 ## SCS - Structure Controlled Stiffness
 
 Adjust the structure of springs to change the stifness properties
