@@ -13,6 +13,6 @@ We designed a robotic tendon actuator for powered prostheses and orthoses
 
 Adjust the structure of springs to change the stifness properties
 
-# Jack Spring Technology
+### Jack Spring Technology
 
-# Leaf Spring Technology
+### Leaf Spring Technology
