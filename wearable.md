@@ -7,7 +7,7 @@ Co-founded Wearable Robotics Association <a href="http://www.wearablerobotics.co
 
 Please see our HESA, Airlegs, and RUPERT devices
 
-# Jetpack
+### Jetpack
 Enhance running with the wind at your back
 
 * <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
