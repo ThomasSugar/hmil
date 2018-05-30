@@ -35,7 +35,7 @@ Adjustable leaf springs were used to assist when moving from a sitting position 
 ![sit to stand](assets/images/sit to stand.png)
 
 # Spring Loaded Knee
-A Jack Spring actuator was mounted across the knee. The stiffnes could be adjusted quickly from soft to very stiff.
+A Jack Spring actuator was mounted across the knee. The stiffness could be adjusted quickly from soft to very stiff.
 
 ![knee](assets/images/knee.png)
 
