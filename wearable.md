@@ -12,7 +12,7 @@ Enhance running with the wind at your back
 
 * <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
 
-![jetpack](assets/images/jetpack2.jpg =250x)
+<img src="assets/images/jetpack2.jpg" width="200">
 
 # Pogosuit
 Mass oscillates up and down with your motion
