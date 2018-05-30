@@ -1,6 +1,7 @@
-__
+---
 title: Compliant Actuators
-__
+description: We are integrating actuators with humans
+---
 
 ## ECS
 
