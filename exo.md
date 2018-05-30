@@ -21,6 +21,6 @@ It uses a phase oscillator controller to synchronize with the human movement.
 
 Co-investigator on an upper extremeity device, Dr. Jiping He was the PI
 
-![RUPERT] (assets/images/rupert.png)
+![RUPERT](assets/images/rupert.png)
 
  
