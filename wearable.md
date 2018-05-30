@@ -30,6 +30,9 @@ Mass oscillates up and down with your motion
 ![spiderman](assets/images/spiderman.jpg)
 
 # Sit to Stand
+Adjustable leaf sprigns would used to assist when moving from a sitting position to a standing position
+
+![sit to stand](assets/images/sit to stand.png)
 
 # Spring Loaded Knee
 A Jack Spring actuator was mounted across the knee. The stiffnes could be adjusted quickly from soft to very stiff.
