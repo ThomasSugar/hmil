@@ -20,9 +20,9 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Aniket Chitale
 
 ## Undergraduate Students
-* James Lyon
-* Kyle Lewis
-* Brian Burca
+* James Lyon, FURI student
+* Kyle Lewis, FURI student
+* Brian Burca, FURI student
 
 ## Alumni
 
@@ -76,6 +76,7 @@ Undergraduate Students
 * Raymond Churchwell, NSF Honorable Mention for the Graduate Fellowship Award for Year 2015
 * Eduardo Fernandez
 * David Olivares
+* Jonathan Harris
 
 Barrett Honors Theses
 * Daniel Burns, NSF Graduate Fellowship Award for Year 2002 
