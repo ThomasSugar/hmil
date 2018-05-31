@@ -61,6 +61,10 @@ description:
 
 ### Powered Prosthetic Ankle
 
+![sparky](assets/images/sparky.jpg)
+
+Featured in the January 2010 National Geographic Magazine, "The Bionic Age"
+
 * <a href="https://www.youtube.com/watch?v=vLQrAnU0KB8" > SPARKy, Spring Ankle with Regenerative Kinetics
 
 * <a href="https://www.youtube.com/watch?v=bSUYTEJDiNE" > SPARKy, very first steps
