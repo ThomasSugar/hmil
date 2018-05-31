@@ -58,3 +58,32 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 
 * Xiao Zhang, MSE in Mechanical Engineering, graduated 2005
 * Bekele Atnafu, MSE in Mechanical Engineering, graduated 2005
+
+Exchange Students
+* Kurt Baurenfeind
+* Christian Mathis
+* Robert Ilg
+* Alexander Boehler
+* Lukas Fink 
+* Sebastian Bereuter
+* Philipp Pasolli
+* Cathia Lize
+
+Undergraduate Students
+* Jennifer Fleeger 
+* Ryan Manis
+* Nathan Cahill, NSF Graduate Fellowship Award for Year 2014
+* Raymond Churchwell, NSF Honorable Mention for the Graduate Fellowship Award for Year 2015
+* Eduardo Fernandez
+* David Olivares
+
+Barrett Honors Theses
+* Daniel Burns, NSF Graduate Fellowship Award for Year 2002 
+* Thomas Bowers 
+* Ethan Stump 
+* Nicholas Brindley, NSF Honorable Mention for the Graduate Fellowship in 2003
+* Ryan Bellman
+* Andrew Bates
+* Tanguy Toulouse
+* Kenny Greason
+
