@@ -75,6 +75,8 @@ Featured in the January 2010 National Geographic Magazine, "The Bionic Age"
   
 ### RUPERT
 
+* RUPERT - PI, Dr. Jiping He
+
 * RUPERT on ABC World News, May 17, 2005 [movie](assets/images/ABC World News Tonight2.wmv)
 
 ### Pogosuit
