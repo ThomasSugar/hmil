@@ -70,6 +70,9 @@ Featured in the January 2010 National Geographic Magazine, "The Bionic Age"
 * <a href="https://www.youtube.com/watch?v=bSUYTEJDiNE" > SPARKy, very first steps
 
 * <a href="https://www.youtube.com/watch?v=hNEnCfkxGzU" > Rugged Ankle
+  
+* <a href="https://www.youtube.com/watch?v=-H-KqhGOo6M" > The Dean of Invention
+  
 
 ### Pogosuit
 
@@ -88,4 +91,7 @@ Featured in the January 2010 National Geographic Magazine, "The Bionic Age"
 ### Human Navigational Principles: Ball Catching with Prof. M. McBeath
 
 * <a href="https://www.nytimes.com/2006/06/10/sports/baseball/10robot.html" > Ball Catching, NY Times, Sports Saturday
+  
+* <a href="https://www.nytimes.com/2006/12/10/magazine/10section3a.t-8.html" > Ball Catching, The Sixth Annual Year in Ideas, NY Times, Sports Saturday
+  
   
