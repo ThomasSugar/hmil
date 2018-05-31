@@ -85,3 +85,7 @@ Featured in the January 2010 National Geographic Magazine, "The Bionic Age"
 
 * <a href="https://vimeo.com/124718983" > Cooling Suit
   
+### Human Navigational Principles: Ball Catching with Prof. M. McBeath
+
+* <a href="https://www.nytimes.com/2006/06/10/sports/baseball/10robot.html" > Ball Catching, NY Times, Sports Saturday
+  
