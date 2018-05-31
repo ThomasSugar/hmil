@@ -7,11 +7,11 @@ At the Human Machine Integration Laboratory, we develop systems that aid and enh
 
 <p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/compliant' class='btn btn-lg btn-primary'>Compliant Actuators</a></p>
 
-<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/prosthetic' class='btn btn-lg btn-primary' target="_blank">Prosthetics and Orthotics</a></p>
+<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/prosthetic' class='btn btn-lg btn-primary'>Prosthetics and Orthotics</a></p>
 
-<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/exo' class='btn btn-lg btn-primary' target="_blank">Exoskeletons</a></p>
+<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/exo' class='btn btn-lg btn-primary'>Exoskeletons</a></p>
 
-<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/wearable' class='btn btn-lg btn-primary' target="_blank">Wearable Robotics</a></p>
+<p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/wearable' class='btn btn-lg btn-primary'>Wearable Robotics</a></p>
 
 Co-founded SpringActive, Inc <a href="http://www.springactive.com">http://www.springactive.com</a>
 
