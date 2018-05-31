@@ -73,6 +73,9 @@ Featured in the January 2010 National Geographic Magazine, "The Bionic Age"
   
 * <a href="https://www.youtube.com/watch?v=-H-KqhGOo6M" > The Dean of Invention
   
+### RUPERT
+
+* RUPERT on ABC World News, May 17, 2005 [movie](assets/images/ABC World News Tonight2.wmv)
 
 ### Pogosuit
 
