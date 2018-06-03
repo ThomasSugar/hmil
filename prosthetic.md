@@ -21,3 +21,7 @@ Developed a JTAR (Joint Torque Augmentation Robot) that uses Bowden cables to pu
 
 ![JTAR](assets/images/JTAR ankle.png)
 
+## Cruthless Cast developed in 2003-2004
+
+First steps
+[video](assets/images/crutchlesscast.wmv)
