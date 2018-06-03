@@ -10,7 +10,7 @@ Developed a soft exoskeleton to enhance running
 ![Airlegs](assets/images/airlegs.png)
 
 Running in the version 1 device
-![Airlegs vid](assets/images/AIRLEGSvid.wmv)
+  ![Airlegs video](assets/images/AIRLEGSvid.wmv)
 
 ## HESA (Hip Exoskeleton for Superior Assistance)
 
@@ -24,6 +24,8 @@ It uses a phase oscillator controller to synchronize with the human movement.
 
 Overview
 * <a href="https://www.youtube.com/watch?v=TPNQDAOygnY" title="JTAR video"> JTAR Hip and Ankle system
+
+
 
 Can you run and jump over walls?
 
