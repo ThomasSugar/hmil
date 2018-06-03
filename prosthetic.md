@@ -9,6 +9,10 @@ Developed powered prosthetic systems. SPARKy (Spring Ankle with Regenerative Kin
 
 ![SPARKy](assets/images/prosthetic ankles.png)
 
+## Prosthetic Systems that allow volitional control (ASU patent)
+
+[Get your feeling back](assets/images/feelingback.wmv)
+
 ## Orthoses
 
 Developed powered anlke foot orthoses PAFO
