@@ -9,6 +9,9 @@ Developed a soft exoskeleton to enhance running
 
 ![Airlegs](assets/images/airlegs.png)
 
+Running in the version 1 device
+![Airlegs vid](assets/images/AIRLEGSvid.wmv)
+
 ## HESA (Hip Exoskeleton for Superior Assistance)
 
 Developed a motor/spring exoskeleton to extend and flex the hips.
