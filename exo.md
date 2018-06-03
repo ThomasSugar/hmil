@@ -14,9 +14,11 @@ Running in the version 1 device
 
 ## HESA (Hip Exoskeleton for Superior Assistance)
 
-Developed a motor/spring exoskeleton to extend and flex the hips.
+* Developed a motor/spring exoskeleton to extend and flex the hips.
 
-It uses a phase oscillator controller to synchronize with the human movement.
+* It uses a phase oscillator controller to synchronize with the human movement.
+
+* Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
 ![HESA](assets/images/hesa.png)
 
