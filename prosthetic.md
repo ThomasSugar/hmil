@@ -15,7 +15,7 @@ Developed powered prosthetic systems. SPARKy (Spring Ankle with Regenerative Kin
 
 ## Orthoses
 
-Developed powered anlke foot orthoses PAFO
+Developed powered ankle foot orthoses PAFO
 
 ![PAFO](assets/images/orthoses.png)
 
