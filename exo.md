@@ -36,7 +36,9 @@ Can you run and jump over walls?
 
 ## RUPERT (A device for Robotic Upper Extremity Repetitive Therapy)
 
-Co-investigator on an upper extremeity device, Dr. Jiping He was the PI
+* Co-investigator on an upper extremeity device, Dr. Jiping He was the PI
+
+* RUPERT on ABC World News, May 17, 2005 [movie](assets/images/ABC World News Tonight2.wmv)
 
 ![RUPERT](assets/images/rupert.png)
 
