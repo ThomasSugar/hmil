@@ -22,12 +22,22 @@ Mass oscillates up and down with your motion
 <img src="https://thomassugar.github.io/hmil/assets/images/pogosuit.png" width="600">
 
 ### Cooling Suit - Dr. Sangram Redkar was the PI
+The suit reduces the body temperature by circulating cool water.
 <img src="https://thomassugar.github.io/hmil/assets/images/robotics_lab-5.jpg" width="600">
 
 ### Spiderman Suit - Dr. Sangram Redkar was the PI
+The suit allows a person to climb flat surfaces
 * <a href="https://vimeo.com/55449506" > Spiderman suit
 
 <img src="https://thomassugar.github.io/hmil/assets/images/spiderman.jpg" width="600">
+
+### WalkBe - Walk Beyond
+
+The WalkBe is a wearable device that pushes forward and upward at the waist.  The gentle push makes it easier to walk.  You can lean backwards into the device to rest.
+
+The external force is applied at the waist so that the device does not interfere with the legs during human motion.  The applied force will reduce metabolic cost, make it easier to walk, and make it easier to push or pull objects.
+<img src="https://thomassugar.github.io/hmil/assets/images/walkbe.jpg" width="600">
+
 
 ### Sit to Stand
 Adjustable leaf springs were used to assist when moving from a sitting position to a standing position
