@@ -39,7 +39,7 @@ The WalkBe is a wearable device that pushes forward and upward at the waist.  Th
 
 The external force is applied at the waist so that the device does not interfere with the legs during human motion.  The applied force will reduce metabolic cost, make it easier to walk, and make it easier to push or pull objects.
 
-<img src="https://thomassugar.github.io/hmil/assets/images/walkbe1.jpg" width="600">
+<img src="https://thomassugar.github.io/hmil/assets/images/walkbe1.jpg" width="300">
 
 
 ### Sit to Stand
