@@ -23,10 +23,12 @@ Mass oscillates up and down with your motion
 
 ### Cooling Suit - Dr. Sangram Redkar was the PI
 The suit reduces the body temperature by circulating cool water.
+
 <img src="https://thomassugar.github.io/hmil/assets/images/robotics_lab-5.jpg" width="600">
 
 ### Spiderman Suit - Dr. Sangram Redkar was the PI
 The suit allows a person to climb flat surfaces
+
 * <a href="https://vimeo.com/55449506" > Spiderman suit
 
 <img src="https://thomassugar.github.io/hmil/assets/images/spiderman.jpg" width="600">
