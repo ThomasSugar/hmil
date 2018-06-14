@@ -14,6 +14,11 @@ Enhance running with the wind at your back
 
 <img src="https://thomassugar.github.io/hmil/assets/images/jetpack2.jpg" width="600">
 
+### PogoShoes - Shoes made for running - 2014
+We used spring-loaded pneumatic cylinders to assist push-off in synchrony with walking and running.
+
+<img src="https://thomassugar.github.io/hmil/assets/images/pogoshoes.jpg" width="600">
+
 ### Pogosuit
 Mass oscillates up and down with your motion
 
