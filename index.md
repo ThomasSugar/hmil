@@ -76,6 +76,7 @@ carousel-images:
 
 * <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019">
 WearRAcon 2019  
+
 There is a [call for papers](CFP.pdf)
 
 Please check out the IEEE TC on <a href="http://www.ieee-ras.org/wearable-robotics" title="WearRAcon 2019"> Wearable Robotics
