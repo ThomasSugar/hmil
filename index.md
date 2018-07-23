@@ -74,8 +74,7 @@ carousel-images:
 
 ## News
 
-* <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019">
-WearRAcon 2019  
+* <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019"> WearRAcon 2019  
 
 There is a [call for papers](CFP.pdf)
 
