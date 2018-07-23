@@ -78,6 +78,9 @@ carousel-images:
 
 * There is a [call for papers](CFP.pdf)
 
+* ASU Mechanical Engineering Professor Thomas Sugar was featured in the Tech Briefs Podcast, “Here’s an Idea: Engineering Real-Life Superpowers.” <a href="https://www.techbriefs.com/component/content/article/tb/webcasts/podcasts/32382"> Podcast
+
+
 * Please check out the IEEE TC on <a href="http://www.ieee-ras.org/wearable-robotics" title="WearRAcon 2019"> Wearable Robotics
 
 <p>Learn more about robotics faculty and research at <a href="http://robotics.asu.edu/">http://robotics.asu.edu/</a></p>
