@@ -74,6 +74,12 @@ carousel-images:
 
 ## News
 
+* <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019">
+WearRAcon 2019  
+There is a [call for papers](CFP.pdf)
+
+Please check out the IEEE TC on <a href="http://www.ieee-ras.org/wearable-robotics" title="WearRAcon 2019"> Wearable Robotics
+
 <p>Learn more about robotics faculty and research at <a href="http://robotics.asu.edu/">http://robotics.asu.edu/</a></p>
 
 <p style="text-align: center;"><a href='http://robotics.asu.edu/' class='btn btn-lg btn-primary' target="_blank">Visit ASU Robotics</a></p>
