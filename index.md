@@ -41,7 +41,6 @@ carousel-images:
       <div class="panel-body">
         1. Designed powered prosthetic ankles and orthoses <br/>
         2. Co-investigator on projects to assist Stroke Survivors: RUPERT and Foot Mentor <br/>
-        3. Co-founder of SpringActive, Inc
       </div>
     </div>
   </div>
