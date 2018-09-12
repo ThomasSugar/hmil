@@ -103,11 +103,6 @@ WearRAcon 2017
 
 * <a href="https://exoskeletonreport.com/2016/02/wearracon16_day_1_report/" title="WearRAcon 2016">
 WearRAcon 2016
-
-#comment 
-* Dr. Jeff Ward designing a rugged, waterproof <a href="http://cdmrp.army.mil/pubs/video/op/jeff_ward_video.aspx" title="Ruggedized Ankle"> prosthetic ankle for walking and running  <br/>
-<a href="https://www.facebook.com/selfmadeshow/videos/168740210356518"> Second video <br/>
-#comment
  
  * <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
 
