@@ -13,8 +13,6 @@ At the Human Machine Integration Laboratory, we develop systems that aid and enh
 
 <p style="text-align: left;"><a href='https://thomassugar.github.io/hmil/wearable' class='btn btn-lg btn-primary'>Wearable Robotics</a></p>
 
-Co-founded SpringActive, Inc <a href="http://www.springactive.com">http://www.springactive.com</a>
-
 Co-founded Wearable Robotics Association <a href="http://www.wearablerobotics.com">http://www.wearablerobotics.com</a>
 
 Worked with GoX Studio <a href="http://www.goxstudio.com">http://www.goxstudio.com</a>
