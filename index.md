@@ -73,6 +73,8 @@ carousel-images:
 
 ## News
 
+# Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
+
 * <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019"> WearRAcon 2019  
 
 * There is a [call for papers](CFP.pdf)
@@ -90,7 +92,6 @@ carousel-images:
 
 <p style="text-align: center;"><a href='http://ras.engineering.asu.edu/' class='btn btn-lg btn-primary' target="_blank">Visit MS in Robotics and Autonomous Systems</a></p>
 
-* Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
 * White Paper on [Hip Exoskeletons](White Paper WRA final.pdf) 
 
