@@ -15,9 +15,8 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 </div>
 
 ## Graduate Students
-* Anthony Rico
+* James Lyon
 * Raymond Churchwell
-* Aniket Chitale
 
 ## Undergraduate Students
 * James Lyon, FURI student
@@ -29,8 +28,6 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Zheng Wang, PhD in Mechanical Engineering, graduated 2005,
 * Kevin Hollander, PhD in Mechanical Engineering, graduated 2005
 * Joseph Hitt, PhD in Mechanical Engineering, graduated 2008
-* Jeffrey Ward, PhD in Mechanical Engineering, graduated 2009
-* Matthew Holgate, PhD in Mechanical Engineering, graduated 2009
 * Juan Oziel De la Fuente Valadez, PhD in Mechanical Engineering, graduated 2016
 * Nathan Cahill, PhD in Mechanical Engineering, graduated 2017
 * Robert Holgate, PhD in Mechanical Engineering, graduated 2017
@@ -45,9 +42,7 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Abhay Paranjape, MS in Mechanical Engineering, graduated 2006
 * Sukumar Srikant, MS in Mechanical Engineering, graduated 2006
 * Aykut Mehmet Oymagil, MS in Mechanical Engineering, graduated 2006
-* Jeffrey A. Ward, MS in Mechanical Engineering, graduated 2007
 * Don Briner, MS in Mechanical Engineering, graduated 2008
-* Alex Boehler, MS in Mechanical Engineering, graduated 2008
 * Ryan Bellman, MS in Mechanical Engineering, graduated 2008
 * Ashish Sardhara, MS in Mechanical Engineering, graduated 2009
 * Adam Fronczyk, MS in Mechanical Engineering, graduated 2012
