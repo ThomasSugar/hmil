@@ -43,10 +43,10 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Sukumar Srikant, MS in Mechanical Engineering, graduated 2006
 * Aykut Mehmet Oymagil, MS in Mechanical Engineering, graduated 2006
 * Don Briner, MS in Mechanical Engineering, graduated 2008
+* Alex Boehler, MS in Mechanical Engineering, graduated 2008
 * Ryan Bellman, MS in Mechanical Engineering, graduated 2008
 * Ashish Sardhara, MS in Mechanical Engineering, graduated 2009
-* Adam Fronczyk, MS in Mechanical Engineering, graduated 2012
-* Chase Wheeler, MS in Mechanical Engineering, graduated 2014
+* Adam Fronczyk, MS in Bioengineering, graduated 2012
 * Jason Kerestes, MS in Mechanical Engineering, graduated 2014
 * Andrew Bates, MS in Mechanical Engineering, graduated 2015
 * Philip New, MS in Mechanical Engineering, graduated 2015
