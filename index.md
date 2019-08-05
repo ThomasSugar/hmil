@@ -73,7 +73,11 @@ carousel-images:
 
 ## News
 
-## Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
+* WearRAcon 2020
+
+* <a href="http://www.wearablerobotics.com/wearracon-europe/" title="WearRAcon Europe"> WearRAcon Europe 2019
+
+* Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
 * <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019"> WearRAcon 2019  
 
