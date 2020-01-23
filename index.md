@@ -90,7 +90,7 @@ April 2:-  Drone Delivery Challenge Competition (D2C2)
 ASU and ASU Research Enterprise will organize an outdoor drone delivery competition. Sponsored by ASME, student teams from Arizona and across the nation will join this full-day event and demonstrate the autonomy and intelligence of low-cost aerial transportation systems.
 
 April 2-3: ASU Southwest Robotics Symposium
-https://swrobotics.engineering.asu.edu/
+<a href="https://swrobotics.engineering.asu.edu/" title="SWRS"> SWRS 2020
 
 * <a href="http://www.wearablerobotics.com/wearracon-europe/" title="WearRAcon Europe"> WearRAcon Europe 2019
 
