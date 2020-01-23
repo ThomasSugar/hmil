@@ -80,10 +80,10 @@ March 30-April 1: WearRAcon 2020
 The week kicks off with the 5th annual WearRAcon 2020 conference.  Join wearable robotics professionals and entrepreneurs from industry, medical/rehab, academia, and government at WearRAcon 20! The annual event, now in its 5th year, brings together 300 attendees from across the globe in Scottsdale, AZ
 
 Keynote speaker: Norm Bafunno, Senior VP, Toyota Motor North America (March 20)
-http://www.wearablerobotics.com/wearracon-20/
+<a href="http://www.wearablerobotics.com/wearracon-20/" title="WearRAcon 2020"> WearRAcon 2020
 
 April 1: Reception at the WearTech facility
-https://azbigmedia.com/business/technology/weartech-center-focused-on-rd-opens-at-park-central/
+<a href="https://azbigmedia.com/business/technology/weartech-center-focused-on-rd-opens-at-park-central/" title="WearTech"> WearTech Reception
 
 April 2:-  Drone Delivery Challenge Competition (D2C2)
 
