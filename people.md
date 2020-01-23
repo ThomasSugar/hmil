@@ -15,13 +15,19 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 </div>
 
 ## Graduate Students
-* James Lyon
-* Raymond Churchwell
+* Raymond Churchwell, MS
+* Lee Griffith, MS
+* Alex Boehler, PhD
+* Brandon Martin, PhD
+* Claudio Vignola, Applied Project
+* Animesh Tewari, Applied Project
 
 ## Undergraduate Students
 * James Lyon, FURI student
 * Kyle Lewis, FURI student
 * Brian Burca, FURI student
+* Anson Kwan
+* Kayleigh Gavin
 
 ## Alumni
 
