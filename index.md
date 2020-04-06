@@ -73,6 +73,17 @@ carousel-images:
 
 ## News
 
+
+* Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
+
+<a href="http://www.wearablerobotics.com/wearracon-20/" title="WearRAcon 2020 Virtual"> WearRAcon 2020 Virtual
+  
+* <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
+  
+* White Paper on [Hip Exoskeletons](White Paper WRA final.pdf) 
+  
+
+
 * ROBOTICS WEEK in Phoenix
 
 March 30-April 1: WearRAcon 2020
@@ -94,8 +105,6 @@ April 2-3: ASU Southwest Robotics Symposium
 
 * <a href="http://www.wearablerobotics.com/wearracon-europe/" title="WearRAcon Europe"> WearRAcon Europe 2019
 
-* Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
-
 * <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019"> WearRAcon 2019  
 
 * There is a [call for papers](CFP.pdf)
@@ -114,7 +123,11 @@ April 2-3: ASU Southwest Robotics Symposium
 <p style="text-align: center;"><a href='http://ras.engineering.asu.edu/' class='btn btn-lg btn-primary' target="_blank">Visit MS in Robotics and Autonomous Systems</a></p>
 
 
-* White Paper on [Hip Exoskeletons](White Paper WRA final.pdf) 
+* <a href="https://exoskeletonreport.com/2020/03/wearracon-20-day-one-report/" title="WearRAcon 2020">
+WearRAcon 2020
+  
+  * <a href="https://exoskeletonreport.com/2019/03/wearable-robotics-association-conference-2019-wearracon19-day-1/" title="WearRAcon 2018">
+WearRAcon 2019
 
 * <a href="https://exoskeletonreport.com/2018/03/wearracon18-day-one-report/" title="WearRAcon 2018">
 WearRAcon 2018
@@ -125,7 +138,7 @@ WearRAcon 2017
 * <a href="https://exoskeletonreport.com/2016/02/wearracon16_day_1_report/" title="WearRAcon 2016">
 WearRAcon 2016
  
- * <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
+
 
 
 <!-- ![Tom doing things](assets/images/robotics_lab-5.jpg)  -->
