@@ -76,7 +76,9 @@ carousel-images:
 
 * Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
-<a href="http://www.wearablerobotics.com/wearracon-20/" title="WearRAcon 2020 Virtual"> WearRAcon 2020 Virtual
+* <a href="http://www.wearablerobotics.com/wearracon-20/" title="WearRAcon 2020 Virtual"> WearRAcon 2020 Virtual
+  
+* <a href="http://www.wearablerobotics.com/wearracon-europe/" title="WearRAcon Europe"> WearRAcon Europe 2019
   
 * <a href="https://www.amazon.com/Wearable-Exoskeleton-Systems-applications-Robotics/dp/1785613022"> Wearable Exoskeleton Systems: Design, control and applications <br/>
   
@@ -103,11 +105,6 @@ ASU and ASU Research Enterprise will organize an outdoor drone delivery competit
 April 2-3: ASU Southwest Robotics Symposium
 <a href="https://swrobotics.engineering.asu.edu/" title="SWRS"> SWRS 2020
 
-* <a href="http://www.wearablerobotics.com/wearracon-europe/" title="WearRAcon Europe"> WearRAcon Europe 2019
-
-* <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019"> WearRAcon 2019  
-
-* There is a [call for papers](CFP.pdf)
 
 * ASU Mechanical Engineering Professor Thomas Sugar was featured in the Tech Briefs Podcast, “Here’s an Idea: Engineering Real-Life Superpowers.” <a href="https://www.techbriefs.com/component/content/article/tb/webcasts/podcasts/32382"> Podcast
 
@@ -126,8 +123,10 @@ April 2-3: ASU Southwest Robotics Symposium
 * <a href="https://exoskeletonreport.com/2020/03/wearracon-20-day-one-report/" title="WearRAcon 2020">
 WearRAcon 2020
   
-  * <a href="https://exoskeletonreport.com/2019/03/wearable-robotics-association-conference-2019-wearracon19-day-1/" title="WearRAcon 2018">
+* <a href="https://exoskeletonreport.com/2019/03/wearable-robotics-association-conference-2019-wearracon19-day-1/" title="WearRAcon 2018">
 WearRAcon 2019
+
+* <a href="http://www.wearablerobotics.com/wearracon-19/" title="WearRAcon 2019"> WearRAcon 2019  
 
 * <a href="https://exoskeletonreport.com/2018/03/wearracon18-day-one-report/" title="WearRAcon 2018">
 WearRAcon 2018
