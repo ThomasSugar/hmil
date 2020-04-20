@@ -10,12 +10,11 @@ Dr. Thomas Sugar works in the areas of wearable robotics for rehabilitation and 
 
 Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
 
-Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered prosthetic ankles, orthoses, and exoskeletons.  The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
+Dr. Sugar also has co-founded companies. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
 
 </div>
 
 ## Graduate Students
-* Raymond Churchwell, MS
 * Lee Griffith, MS
 * Alex Boehler, PhD
 * Brandon Martin, PhD
@@ -23,11 +22,7 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Animesh Tewari, Applied Project
 
 ## Undergraduate Students
-* James Lyon, FURI student
-* Kyle Lewis, FURI student
-* Brian Burca, FURI student
 * Anson Kwan
-* Kayleigh Gavin
 
 ## Alumni
 
@@ -56,9 +51,15 @@ Dr. Sugar also has co-founded two companies.  SpringActive, Inc. builds powered 
 * Jason Kerestes, MS in Mechanical Engineering, graduated 2014
 * Andrew Bates, MS in Mechanical Engineering, graduated 2015
 * Philip New, MS in Mechanical Engineering, graduated 2015
+* Raymond Churchwell, MS in Engineering, graduated 2020
 
 * Xiao Zhang, MSE in Mechanical Engineering, graduated 2005
 * Bekele Atnafu, MSE in Mechanical Engineering, graduated 2005
+
+* Clinton Ewell, Applied Project, 2020
+* Conor Giam, Applied Project, 2020
+* Gustin Lighthouse, Applied Project, 2020
+* Aundre Garcia, Applied Project, 2020
 
 Exchange Students
 * Kurt Baurenfeind
@@ -78,6 +79,7 @@ Undergraduate Students
 * Eduardo Fernandez
 * David Olivares
 * Jonathan Harris
+* James Lyon
 
 Barrett Honors Theses
 * Daniel Burns, NSF Graduate Fellowship Award for Year 2002 
@@ -88,4 +90,8 @@ Barrett Honors Theses
 * Andrew Bates
 * Tanguy Toulouse
 * Kenny Greason
+* Kyle Lewis
+* Brian Burca
+* Kayleigh Gavin
+
 
