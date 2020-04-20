@@ -56,6 +56,7 @@ Dr. Sugar also has co-founded companies. The Wearable Robotics Association will 
 * Xiao Zhang, MSE in Mechanical Engineering, graduated 2005
 * Bekele Atnafu, MSE in Mechanical Engineering, graduated 2005
 
+* Anthony Rico, Applied Project, 2019
 * Clinton Ewell, Applied Project, 2020
 * Conor Giam, Applied Project, 2020
 * Gustin Lighthouse, Applied Project, 2020
