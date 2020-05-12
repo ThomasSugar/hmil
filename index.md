@@ -73,8 +73,13 @@ carousel-images:
 
 ## News
 
+* <a href="https://asunow.asu.edu/20191029-weartech-positions-phoenix-center-wearable-tech-industry" title="WearTEch"> ASU and the city of Phoenix are buidling a WearTech facility
+  
+* We are building a new class of exoskeletons.  * <a href="http://idealab.asu.edu/kaiteki" title="exoshell"> Kaiteki Project
+  
 
 * Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
+
 
 * <a href="http://www.wearablerobotics.com/wearracon-20/" title="WearRAcon 2020 Virtual"> WearRAcon 2020 Virtual
   
