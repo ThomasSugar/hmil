@@ -77,9 +77,9 @@ carousel-images:
   
 * We are building a new class of exoskeletons.  <a href="http://idealab.asu.edu/kaiteki" title="exoshell"> Kaiteki Project
   
-* We are building a new hip exoskeleton for the Air Force.
+* We are building a hip exoskeleton for the Air Force for pushing and lifting.
 
-* We are working on a elbo exoskeleton with Mayo Clinic for rehabilitation.
+* We are working on an elbow exoskeleton with Mayo Clinic for rehabilitation.
 
 * Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
