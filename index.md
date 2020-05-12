@@ -73,10 +73,13 @@ carousel-images:
 
 ## News
 
-* <a href="https://asunow.asu.edu/20191029-weartech-positions-phoenix-center-wearable-tech-industry" title="WearTEch"> ASU and the city of Phoenix are buidling a WearTech facility
+* ASU and the city of Phoenix are building a <a href="https://asunow.asu.edu/20191029-weartech-positions-phoenix-center-wearable-tech-industry" title="WearTEch"> WearTech facility
   
-* We are building a new class of exoskeletons.  * <a href="http://idealab.asu.edu/kaiteki" title="exoshell"> Kaiteki Project
+* We are building a new class of exoskeletons.  <a href="http://idealab.asu.edu/kaiteki" title="exoshell"> Kaiteki Project
   
+* We are building a new hip exoskeleton for the Air Force.
+
+* We are working on a elbo exoskeleton with Mayo Clinic for rehabilitation.
 
 * Can your exoskeleton make these moves? [movie](Hesa Moves compress.mp4)
 
