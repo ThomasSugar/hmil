@@ -57,6 +57,6 @@ A Jack Spring actuator was mounted across the knee. The stiffness could be adjus
 
 <img src="https://thomassugar.github.io/hmil/assets/images/knee.png" width="600">
 
-### Energy Harvesting Ankle - Work with SpringActive and Dr. Joseph Hitt
+### Energy Harvesting Ankle - Work with Dr. Joseph Hitt
 
 <img src="https://thomassugar.github.io/hmil/assets/images/energy harvesting ankle.png" width="600">
