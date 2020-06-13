@@ -22,7 +22,7 @@ Running in the version 1 device
 
 ![HESA](assets/images/hesa.png)
 
-## JTAR Hip and Ankle system (Designs and Controller owned by SpringActive)
+## JTAR Hip and Ankle system
 
 Overview
 * <a href="https://www.youtube.com/watch?v=TPNQDAOygnY" title="JTAR video"> JTAR Hip and Ankle system
