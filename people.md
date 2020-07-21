@@ -93,6 +93,5 @@ Barrett Honors Theses
 * Kenny Greason
 * Kyle Lewis
 * Brian Burca
-* Kayleigh Gavin
 
 
