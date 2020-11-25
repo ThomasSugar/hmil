@@ -17,4 +17,6 @@ Co-founded Wearable Robotics Association <a href="http://www.wearablerobotics.co
 
 Worked with GoX Studio <a href="http://www.goxstudio.com">http://www.goxstudio.com</a>
 
+Co-founded SpringActive, Inc in 2008 with Dr. Hollander and Mr. Philip Sugar
+
 Worked on the original Foot Mentor design with Kinetic Muscles, Inc 
