@@ -14,15 +14,15 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 </div>
 
-##  We must find the time to stop and thank the people who make a difference in our lives., JFK
+#  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
 * Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability   
 * Dr. Joseph Hitt whose vision has created new paths
 * Dr. Kevin Hollander with his mechanical design prowess
-* Mr. Philip Sugar who gave advice, counsel and support
+* Mr. Philip Sugar who gives advice, counsel and support
 * Mr. Theirry Flaven who was the lab manager for many years
 
-* Dr. Vijay Kumar who mentored me
+* Dr. Vijay Kumar who was a mentor
 
 
 
