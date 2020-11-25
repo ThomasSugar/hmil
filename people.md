@@ -12,6 +12,8 @@ Dr. Sugar leads a research effort in wearable robotic systems. He is developing 
 
 Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Association. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
 
+</div>
+
 ##  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
 * Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability   
@@ -22,7 +24,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 * Dr. Vijay Kumar who mentored me
 
-</div>
+
 
 ## Graduate Students
 * Lee Griffith, MS
