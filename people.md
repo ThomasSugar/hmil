@@ -15,13 +15,14 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 ##  "We must find the time to stop and thank the people who make a difference in our lives."
 
 ## Key people who have made great strides
-* Dr. Kevin Hollander with his mechanical design prowess
-* Mr. Alex Boehler with his mechatronics ability
-* Mr. Theirry Flaven who was the lab manager for many years
-* Mr. Philip Sugar who gave advice, counsel and support
-* Dr. Joseph Hitt whose vision has created new paths
-roboti
 
+* Mr. Alex Boehler with his mechatronics ability  <a href="https://www.roboticelements.com/" title="Mechatronics"> 
+* Dr. Joseph Hitt whose vision has created new paths
+* Dr. Kevin Hollander with his mechanical design prowess
+* Mr. Philip Sugar who gave advice, counsel and support
+* Mr. Theirry Flaven who was the lab manager for many years
+
+* Dr. Vijay Kumar who mentored me
 
 </div>
 
