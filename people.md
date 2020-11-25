@@ -16,7 +16,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 ## Key people who have made great strides
 
-* Mr. Alex Boehler with his mechatronics ability  <a href="https://www.roboticelements.com/" title="Mechatronics"> 
+* Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability   
 * Dr. Joseph Hitt whose vision has created new paths
 * Dr. Kevin Hollander with his mechanical design prowess
 * Mr. Philip Sugar who gave advice, counsel and support
