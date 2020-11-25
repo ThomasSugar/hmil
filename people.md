@@ -14,7 +14,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 </div>
 
-#  We must find the time to stop and thank the people who make a difference in our lives., JFK
+###  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
 * Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability   
 * Dr. Joseph Hitt whose vision has created new <a href="https://www.goxlabs.com/" title="GoX Labsgo"> paths
