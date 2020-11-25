@@ -12,9 +12,7 @@ Dr. Sugar leads a research effort in wearable robotic systems. He is developing 
 
 Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Association. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
 
-##  "We must find the time to stop and thank the people who make a difference in our lives."
-
-## Key people who have made great strides
+##  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
 * Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability   
 * Dr. Joseph Hitt whose vision has created new paths
