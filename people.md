@@ -10,7 +10,18 @@ Dr. Thomas Sugar works in the areas of wearable robotics for rehabilitation and 
 
 Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
 
-Dr. Sugar also has co-founded companies. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
+Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Association. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
+
+##  "We must find the time to stop and thank the people who make a difference in our lives."
+
+## Key people who have made great strides
+* Dr. Kevin Hollander with his mechanical design prowess
+* Mr. Alex Boehler with his mechatronics ability
+* Mr. Theirry Flaven who was the lab manager for many years
+* Mr. Philip Sugar who gave advice, counsel and support
+* Dr. Joseph Hitt whose vision has created new paths
+roboti
+
 
 </div>
 
