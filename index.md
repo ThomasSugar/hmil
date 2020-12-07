@@ -73,8 +73,11 @@ carousel-images:
 
 ## News
 
-* ASU and the city of Phoenix are building a <a href="https://asunow.asu.edu/20191029-weartech-positions-phoenix-center-wearable-tech-industry" title="WearTEch"> WearTech facility
-  
+
+* Welcome to Barrett, The Honors College <a href="https://asunow.asu.edu/20201112-asu-news-asu-celebrates-grand-opening-lantana-hall-polytechnic-campus"> at ASU Poly
+
+* Welcome to <a href="https://www.youtube.com/watch?v=Mb44RP7oRmI"> ASU
+
 * We are building a new class of exoskeletons.  <a href="http://idealab.asu.edu/kaiteki" title="exoshell"> Kaiteki Project
   
 * We are building a hip exoskeleton for the Air Force for pushing and lifting.
