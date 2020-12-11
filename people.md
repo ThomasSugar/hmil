@@ -6,7 +6,7 @@ title: People
 <div class="row">
 <img src="{{ site.base_path }}/assets/images/tom_headshot.jpg" height="300px" align="left">
 
-Dr. Thomas Sugar works in the areas of wearable robotics for rehabilitation and gait assistance. In industry, he worked as a project engineer for W. L. Gore and Associates earning a Professional Engineering License. He has been a faculty member in the Department of Mechanical and Aerospace Engineering and The Polytechnic School at Arizona State University. He majored in business and mechanical engineering for his Bachelor’s degrees and mechanical engineering for his Doctoral degree all from the University of Pennsylvania.
+Dr. Thomas Sugar works in the areas of wearable robotics for rehabilitation and gait assistance. In industry, he worked as a project engineer for W. L. Gore and Associates earning a Professional Engineering License. He has been a faculty member in the Department of Mechanical and Aerospace Engineering and The Polytechnic School at Arizona State University. He majored in business and mechanical engineering for his Bachelor’s degrees and mechanical engineering for his Master and Doctoral degree all from the University of Pennsylvania.
 
 Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
 
@@ -16,11 +16,14 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 ###  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
-* Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability   
+* Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability 
+* Mr. Theirry Flaven who was the lab manager for many years
 * Dr. Joseph Hitt whose vision has created new <a href="https://www.goxlabs.com/" title="GoX Labsgo"> paths
 * Dr. Kevin Hollander with his mechanical design prowess
+* Mr. Jason Kerestes who helped to develop many DARPA funded exoskeletons  
 * Mr. Philip Sugar who gives advice, counsel and support
-* Mr. Theirry Flaven who was the lab manager for many years
+
+* I am quite proud of all of the outstanding students at ASU
 
 * Dr. Vijay Kumar who was a mentor
 
@@ -30,7 +33,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Lee Griffith, MS
 * Alex Boehler, PhD
 * Brandon Martin, PhD
-* Claudio Vignola, Applied Project
+* Claudio Vignola, PhD
 * Animesh Tewari, Applied Project
 
 ## Undergraduate Students
