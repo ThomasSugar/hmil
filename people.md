@@ -19,7 +19,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Mr. Ryan Bellman, Lead engineer at Mobility Research, Tempe, AZ
 * Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability 
 * Mr. Theirry Flaven who was the lab manager for many years
-* Dr. Joseph Hitt whose vision has created started GoX Labs <a href="https://www.goxlabs.com/" title="GoX Labsgo">
+* Dr. Joseph Hitt whose vision has created started <a href="https://www.goxlabs.com/" title="GoX Labsgo"> GoX Labs
 * Dr. Kevin Hollander with his mechanical design prowess
 * Mr. Jason Kerestes who helped to develop many DARPA funded exoskeletons
 * Dr. Chitralekha Nahar, Assistant Professor, Saffrony Institute of Technology, S.P.B. Patel Engineering College  
