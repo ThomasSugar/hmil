@@ -16,11 +16,14 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 ###  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
+* Mr. Ryan Bellman, Lead engineer at Mobility Research, Tempe, AZ
 * Mr. Alex Boehler with his mechatronics <a href="https://www.roboticelements.com/" title="Mechatronics"> ability 
 * Mr. Theirry Flaven who was the lab manager for many years
-* Dr. Joseph Hitt whose vision has created new <a href="https://www.goxlabs.com/" title="GoX Labsgo"> paths
+* Dr. Joseph Hitt whose vision has created started GoX Labs <a href="https://www.goxlabs.com/" title="GoX Labsgo">
 * Dr. Kevin Hollander with his mechanical design prowess
-* Mr. Jason Kerestes who helped to develop many DARPA funded exoskeletons  
+* Mr. Jason Kerestes who helped to develop many DARPA funded exoskeletons
+* Dr. Chitralekha Nahar, Assistant Professor, Saffrony Institute of Technology, S.P.B. Patel Engineering College  
+* Dr. Sukumar Srikant, Assisatant Professor at IIT, Bombay  
 * Mr. Philip Sugar who gives advice, counsel and support
 
 * I am quite proud of all of the outstanding students at ASU
