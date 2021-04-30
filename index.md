@@ -74,6 +74,11 @@ carousel-images:
 ## News
 
 
+* <a href="https://www.forbes.com/sites/borislavmarinov/2021/04/28/first-day-of-the-wearable-robotics-conference-wearracon-21/?sh=1035e34d1f9b" title="WearRAcon 2021"> WearRAcon 2021
+
+* AZNext - Worforce development grant on advanced manufacturing, $8.2 million
+<a href="https://news.asu.edu/20210322-university-news-asu-will-lead-effort-upskill-reskill-workforce-through-8m-grant" title="AZNext"> AZNext
+
 * Welcome to Barrett, The Honors College <a href="https://asunow.asu.edu/20201112-asu-news-asu-celebrates-grand-opening-lantana-hall-polytechnic-campus"> at ASU Poly
 
 * Welcome to <a href="https://www.youtube.com/watch?v=Mb44RP7oRmI"> ASU
