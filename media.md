@@ -5,13 +5,15 @@ description:
 
 ## In the Press
 
+### WearTech Center
+
+* <a href="https://www.azweartech.org/project/exoskeleton-protocol-development" title="Exoskeletons at WearTech"> Exoskeletons at the WearTech Center
+
 ### APEx Aerial Porter Exoskeleton
 
 * <a href="https://www.travis.af.mil/News/Article/2620533/travis-partnership-springs-air-force-forward-with-new-aerial-porter-exoskeleton/" title="Exoskeletons at Travis AFB"> Exoskeletons at Travis AFB
   
 * <a href="https://www.airforce-technology.com/news/aflcmc-and-amc-partner-with-asu-on-aerial-port-exoskeleton-development/" title="Exoskeletons with AMC"> Air Mobility Command works with ASU
-  
-
 
 ### Jetpack
 
