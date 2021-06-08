@@ -5,6 +5,14 @@ description:
 
 ## In the Press
 
+### APEx Aerial Porter Exoskeleton
+
+* <a href="https://www.travis.af.mil/News/Article/2620533/travis-partnership-springs-air-force-forward-with-new-aerial-porter-exoskeleton/" title="Exoskeletons at Travis AFB"> Exoskeletons at Travis AFB
+  
+* <a href="https://www.airforce-technology.com/news/aflcmc-and-amc-partner-with-asu-on-aerial-port-exoskeleton-development/" title="Exoskeletons with AMC"> Air Mobility Command works with ASU
+  
+
+
 ### Jetpack
 
 * #### <a href="https://vimeo.com/98084869" title="ASU Jetpack"> ASU Jetpack, 2.2 million hits
