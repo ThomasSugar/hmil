@@ -33,14 +33,12 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 
 ## Graduate Students
-* Lee Griffith, MS
 * Alex Boehler, PhD
-* Brandon Martin, PhD
 * Claudio Vignola, PhD
-* Animesh Tewari, Applied Project
 
 ## Undergraduate Students
 * Anson Kwan
+* Jason Okun
 
 ## Alumni
 
@@ -50,6 +48,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Juan Oziel De la Fuente Valadez, PhD in Mechanical Engineering, graduated 2016
 * Nathan Cahill, PhD in Mechanical Engineering, graduated 2017
 * Robert Holgate, PhD in Mechanical Engineering, graduated 2017
+* W. Brandon Martin, PhD in Systems Engineering, graduate 2021
 
 * Anthony Suluh, MS in Mechanical Engineering, graduated 2001
 * Keshav Munhdra, MS in Mechanical Engineering, graduated 2002
@@ -79,6 +78,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Conor Giam, Applied Project, 2020
 * Gustin Lighthouse, Applied Project, 2020
 * Aundre Garcia, Applied Project, 2020
+* Animesh Tewari, Applied Project, 2021
 
 Exchange Students
 * Kurt Baurenfeind
@@ -111,5 +111,7 @@ Barrett Honors Theses
 * Kenny Greason
 * Kyle Lewis
 * Brian Burca
+* Gerard Fusaro
+* Nicholas Riley
 
 
