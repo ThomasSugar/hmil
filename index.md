@@ -73,6 +73,7 @@ carousel-images:
 
 ## News
 
+* <a href="https://news.asu.edu/20210712-solutions-air-force-exoskeleton-heavy-lift-asu" title="APEx"> Pushing and Lifting Exoskeleton, APEx
 
 * <a href="https://www.forbes.com/sites/borislavmarinov/2021/04/28/first-day-of-the-wearable-robotics-conference-wearracon-21/?sh=1035e34d1f9b" title="WearRAcon 2021"> WearRAcon 2021
 
