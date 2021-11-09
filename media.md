@@ -14,6 +14,8 @@ description:
 * <a href="https://www.travis.af.mil/News/Article/2620533/travis-partnership-springs-air-force-forward-with-new-aerial-porter-exoskeleton/" title="Exoskeletons at Travis AFB"> Exoskeletons at Travis AFB
   
 * <a href="https://www.airforce-technology.com/news/aflcmc-and-amc-partner-with-asu-on-aerial-port-exoskeleton-development/" title="Exoskeletons with AMC"> Air Mobility Command works with ASU
+  
+* <a href="https://news.asu.edu/20210712-solutions-air-force-exoskeleton-heavy-lift-asu" title="APEx"> Aerial Porter Exoskeleton gives a lift
 
 ### Jetpack
 
