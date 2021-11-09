@@ -6,9 +6,9 @@ title: People
 <div class="row">
 <img src="{{ site.base_path }}/assets/images/tom_headshot.jpg" height="300px" align="left">
 
-Dr. Thomas Sugar works in the areas of wearable robotics for rehabilitation and gait assistance. In industry, he worked as a project engineer for W. L. Gore and Associates earning a Professional Engineering License. He has been a faculty member in the Department of Mechanical and Aerospace Engineering and The Polytechnic School at Arizona State University. He majored in business and mechanical engineering for his Bachelor’s degrees and mechanical engineering for his Master and Doctoral degree all from the University of Pennsylvania.
+Dr. Thomas Sugar works in the areas of wearable robotics, rehabilitation, and gait assistance. In industry, he worked as a project engineer for W. L. Gore and Associates earning a Professional Engineering License. He has been a faculty member in the Department of Mechanical and Aerospace Engineering and The Polytechnic School at Arizona State University. He majored in business and mechanical engineering for his Bachelor’s degrees and mechanical engineering for his Master and Doctoral degree all from the University of Pennsylvania.
 
-Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
+Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include HeSA, APEx, SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
 
 Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Association. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
 
@@ -17,7 +17,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 ###  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
 * Mr. Ryan Bellman, Lead engineer at Mobility Research, Tempe, AZ
-* Mr. Alex Boehler with his mechatronics  started <a href="https://www.roboticelements.com/" title="Mechatronics"> Robotic Elements 
+* Dr. Alex Boehler with his mechatronics  started <a href="https://www.roboticelements.com/" title="Mechatronics"> Robotic Elements 
 * Mr. Theirry Flaven who was the lab manager for many years
 * Dr. Joseph Hitt whose vision has created and started <a href="https://www.goxlabs.com/" title="GoX Labsgo"> GoX Labs
 * Dr. Kevin Hollander with his mechanical design prowess
@@ -33,7 +33,6 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 
 ## Graduate Students
-* Alex Boehler, PhD
 * Claudio Vignola, PhD
 
 ## Undergraduate Students
@@ -48,7 +47,8 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Juan Oziel De la Fuente Valadez, PhD in Mechanical Engineering, graduated 2016
 * Nathan Cahill, PhD in Mechanical Engineering, graduated 2017
 * Robert Holgate, PhD in Mechanical Engineering, graduated 2017
-* W. Brandon Martin, PhD in Systems Engineering, graduate 2021
+* W. Brandon Martin, PhD in Systems Engineering, graduated 2021
+* Alex Boehler, PhD in Systems Engineering, graduated 2021
 
 * Anthony Suluh, MS in Mechanical Engineering, graduated 2001
 * Keshav Munhdra, MS in Mechanical Engineering, graduated 2002
