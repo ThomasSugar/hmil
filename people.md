@@ -34,10 +34,10 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 ## Graduate Students
 * Claudio Vignola, PhD
+* Bryan Carlton, MS
 
 ## Undergraduate Students
-* Anson Kwan
-* Jason Okun
+* Jake Okun
 
 ## Alumni
 
@@ -79,6 +79,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Gustin Lighthouse, Applied Project, 2020
 * Aundre Garcia, Applied Project, 2020
 * Animesh Tewari, Applied Project, 2021
+* Gerard Fusaro, Applied Project, 2022
 
 Exchange Students
 * Kurt Baurenfeind
@@ -109,9 +110,11 @@ Barrett Honors Theses
 * Andrew Bates
 * Tanguy Toulouse
 * Kenny Greason
+* Curtis Sparks
 * Kyle Lewis
 * Brian Burca
 * Gerard Fusaro
 * Nicholas Riley
-
+* Jacob Yoshitake
+* Bryan Carlton
 
