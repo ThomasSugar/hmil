@@ -73,6 +73,12 @@ carousel-images:
 
 ## News
 
+* <a href="https://exoskeletonreport.com/2023/04/exoskeleton-evolution-key-highlights-and-takeaways-from-wearracon-23-part-1/" title="WearRAcon 2023a"> WearRAcon 2023a
+  
+* <a href="https://exoskeletonreport.com/2023/04/exoskeleton-evolution-key-highlights-and-takeaways-from-wearracon-23-part-2/" title="WearRAcon 2023bb> WearRAcon 2023b
+  
+* <a href="https://exoskeletonreport.com/2022/02/wearracon-22-is-on-track-to-be-held-in-person-on-april-25-26/" title="WearRAcon 2022"> WearRAcon 2022
+
 * <a href="https://news.asu.edu/20210712-solutions-air-force-exoskeleton-heavy-lift-asu" title="APEx"> Pushing and Lifting Exoskeleton, APEx
 
 * <a href="https://www.forbes.com/sites/borislavmarinov/2021/04/28/first-day-of-the-wearable-robotics-conference-wearracon-21/?sh=1035e34d1f9b" title="WearRAcon 2021"> WearRAcon 2021
