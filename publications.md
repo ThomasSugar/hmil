@@ -5,6 +5,22 @@ description:
 
 ## Journal Papers
 
+J47. Nevisipour, Masood, Thomas Sugar, and Hyunglae Lee. "Multi-tasking deteriorates trunk movement control during and after obstacle avoidance." Human Movement Science 87 (2023): 103053.
+
+J46. Li, Dongting, Emiliano Quinones Yumbla, Alyssa Olivas, Thomas Sugar, Heni Ben Amor, Hyunglae Lee, Wenlong Zhang, and Daniel M. Aukes. "Origami-Inspired Wearable Robot for Trunk Support." IEEE/ASME Transactions on Mechatronics (2022), doi: 10.1109/TMECH.2022.3220136.
+
+J45. Martin, W., Boehler, A., Hollander, K., Kinney, D., Hitt, J., Kudva, J., & Sugar, T. (2022). Development and testing of the aerial porter exoskeleton. Wearable Technologies, 3, E1. doi:10.1017/wtc.2021.18
+
+J44. Jason Olson, Sambarta Ray, Thomas Sugar, Claire Honeycutt and Sangram Redkar “Design of active ankle foot orthotics for gait assistance and fall prevention” Int Rob Auto J. 2020;6(3):106‒113.
+
+J43. Juan De La Fuente, Susheelkumar C. Subramanian, Thomas G. Sugar, Sangram Redkar, “A robust phase oscillator design for wearable robotic systems,” Robotics and Autonomous Systems, 128, 2020, https://doi.org/10.1016/j.robot.2020.103514.
+
+J42. T. G. Sugar, E. H. Sinitski, J. M. Wilken, S. Redkar, M. A. Holgate, “Phase plane analysis of walking with applications in controlling bipeds and prostheses,” International Robotics & Automation Journal, 6(1), 2020.
+
+J41. P. New, A. Bates, J Da la Fuente, T. Sugar, S. Redkar, “Adaptive oscillator controller for quadrupled hopping robots,” MOJ Applied Bionics and Biomechanics, 2019, 3(4): 85-94.
+
+J40. P.T. Chinimilli, S. Redkar, T. Sugar, “A Two-Dimensional Feature Space Based Approach for Human Locomotion Recognition”, IEEE Sensors Journal, January, 2019. doi:10.1109/JSEN.2019.2895289
+
 J39. Nathan Cahill, Thomas Sugar, Yi Ren, Kyle Schroeder, “Optimal Stiffness Design for an Exhaustive Parallel Compliance Matrix in Multiactuator Robotic Limbs,”  ASME Journal of Mechanisms and Robotics, 2018, doi:10.1115/1.4039772.
 
 J38. C. S. Susheelkumar, S. Redkar, T. Sugar, “Parametric resonance and energy transfer in suction stabilized floating platforms: a brief survey, International Journal of Dynamics and Control, vol. 5(3), pp 931-945, 2017.
@@ -105,6 +121,8 @@ Shaoping Bai, Gurvinder Virk, Thomas Sugar, Wearable Robots, IEC
 
 ## Patents
 
+P10. Soft Wearable Robotic Device to Treat Plantarflexion Contractures, B Shuch, C. Kulkarni, S. Katarey, H. Dangaich, S. Stridar, Ph. Nguyn, T. Sugar, US11,337,879 B2, May 24, 2022
+
 P9. Systems and Methods for Adding or Subtracting Energy to Body Motion, T. Sugar, J. Kerestes, T. Flaven, M. Holgate, US9308642 B2, April 2016. 
 
 P8. Joint Control Systems and Methods Utilizing Muscle Activation Sensing, T. Sugar, T Flaven, G. Wolf, 2013 provisional application, US9192487 B2, 2015.
@@ -126,6 +144,28 @@ P2. T. G. Sugar and K. Baurenfeind, “Omni-Directional Treadmill”, US 7,399,2
 P1. T. G. Sugar and S. Yalamanchili, "Centrifuge Test Apparatus for Footwear and Apparel," US 5329807: W. L. Gore and Associates, 1994.
 
 ## Conference Papers
+
+C86.  “Origami-inspired Wearable Robot for Trunk Support”, 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) (AIM 2023)
+
+C85. Brandon Martin W. et al. (2020) Aerial Porter Exoskeleton (APEX) for Lifting and Pushing. In: Moreno J.C., Masood J., Schneider U., Maufroy C., Pons J.L. (eds) Wearable Robotics: Challenges and Trends. WeRob 2020. Biosystems & Biorobotics, vol 27. Springer, Cham. https://doi.org/10.1007/978-3-030-69547-7_85
+
+C84. Sandesh G Bhat, Thomas G Sugar, Sangram Redkar, “Reconstruction of Ground Reaction Force Data Using Lyapunov Floquet Theory and Invariant Manifold Theory,” ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2020.
+
+C83. Sandesh G Bhat, Thomas G Sugar, Sangram Redkar, “Invariant Manifolds in Human Joint Angle Analysis During Walking Gait,” ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2020.
+
+C82. Emiliano Qui ones Yumbla, Ruby Obeng, Jeffrey Ward, Thomas Sugar, and Panagiotis Artemiadis, “Anticipatory muscle responses in transitions from rigid to compliant surfaces: towards smart ankle-foot prostheses,” 2019 IEEE-RAS-EMBS International Conference on Rehabilitation Robotics (ICORR).
+
+C81. Juan De La Fuente, Susheelkumar C Subramanian, Prudhvi Tej Chinimilli, Sangram Redkar, Thomas Sugar, “The Design of Robust Phase Oscillator for Wearable Robotic Systems,” ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2019.
+
+C80. Vamsi K Manchala, Alvaro V Clara, Susheelkumar C Subramanian, Sangram Redkar, Thomas Sugar, “Human Computer Interface Using Electroencephalography for Driver Behavior Classification,” ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2019.
+
+C79. Sunny Amatya, Saivimal Sridar, Amir Salimi Lafmejani, Souvik Poddar, Thomas Sugar, and Panagiotis Polygerinos, “Design, Development and Control of a Fabric-Based, Soft Ankle Module to Mimic Human Ankle Stiffness,” 2019 IEEE-RAS-EMBS International Conference on Rehabilitation Robotics (ICORR).
+
+C78. P. Chinimilli, S. Cherangara Subramanian, S. Redkar, T. Sugar, “Human Locomotion Assistance Using Two-Dimensional Features Based Adaptive Oscillator,” IEEE WearRAcon 2019.
+
+C77. S.G. Bhat, S. Cherangara Subramanian, J. Olson, S. Redkar, and T. G. Sugar, “Analysis of a Periodic Force Applied to the Trunk to Assist Walking Gait,” IEEE WearRAcon 2019.
+
+C76. S.G. Bhat, S. Redkar, T.G.  Sugar, “Development of a Passive Prosthetic Ankle with Slope Adapting Capabilities,” ASME IDETC 2018.
 
 C75. T. G. Sugar and M. Holgate, “Understanding Speed and Force Ratios for Compliant Mechanisms,” in Advances in Mechanisms, Robotics and Design Education and Research, Mechanisms and Machine Science 14, V. Kumar et al (Eds): Springer International Publishing, 2013, pp. 117-129. 
 
