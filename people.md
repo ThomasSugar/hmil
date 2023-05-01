@@ -6,7 +6,7 @@ title: People
 <div class="row">
 <img src="{{ site.base_path }}/assets/images/tom_headshot.jpg" height="300px" align="left">
 
-Dr. Thomas Sugar works in the areas of wearable robotics, rehabilitation, and gait assistance. In industry, he worked as a project engineer for W. L. Gore and Associates earning a Professional Engineering License. He has been a faculty member in the Department of Mechanical and Aerospace Engineering and The Polytechnic School at Arizona State University. He majored in business and mechanical engineering for his Bachelor’s degrees and mechanical engineering for his Master and Doctoral degree all from the University of Pennsylvania.
+Dr. Thomas Sugar works in the areas of wearable robotics, rehabilitation, and gait assistance. In industry, he worked as a project engineer for W. L. Gore and Associates earning a Professional Engineering License. He has been a faculty member in the Department of Mechanical and Aerospace Engineering, The Polytechnic School, and the School of Manufacturing Systems and Networks at Arizona State University. He majored in business and mechanical engineering for his Bachelor’s degrees and mechanical engineering for his Master and Doctoral degree all from the University of Pennsylvania.
 
 Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include HeSA, APEx, SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
 
@@ -34,7 +34,6 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 ## Graduate Students
 * Claudio Vignola, PhD
-* Bryan Carlton, MS
 
 ## Undergraduate Students
 * Jake Okun
@@ -69,6 +68,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Andrew Bates, MS in Mechanical Engineering, graduated 2015
 * Philip New, MS in Mechanical Engineering, graduated 2015
 * Raymond Churchwell, MS in Engineering, graduated 2020
+* Bryan Carlton, MS Robotics and Autonomous Systems, graduated 2023
 
 * Xiao Zhang, MSE in Mechanical Engineering, graduated 2005
 * Bekele Atnafu, MSE in Mechanical Engineering, graduated 2005
@@ -117,4 +117,6 @@ Barrett Honors Theses
 * Nicholas Riley
 * Jacob Yoshitake
 * Bryan Carlton
+* Reagen Gillespie
+* Tallin Speek
 
