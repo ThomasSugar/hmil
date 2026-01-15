@@ -5,6 +5,16 @@ description:
 
 ## Journal Papers
 
+J52. Bhat, Sandesh G., Emily J. Miller, Paul Kane, Kevin W. Hollander, Claudio Vignola, Alexander Y. Shin, Thomas G. Sugar, and Kenton R. Kaufman. "Enhanced Functionality Using a Powered Upper Extremity Exoskeleton in Patients With Brachial Plexus Injuries." IEEE Transactions on Neural Systems and Rehabilitation Engineering (2025).
+
+J51. Claudio Vignola, Sandesh G Bhat, Kevin Hollander, Paul Kane, Emily Miller, William Brandon Martin, Alexander Y Shin, Thomas G Sugar, Kenton R Kaufman, “Design and Development of a Powered Myoelectric Elbow Orthosis for Neuromuscular Injuries” Military Medicine, Volume 189, Issue Supplement_3, September/October 2024, Pages 585–591, https://doi.org/10.1093/milmed/usae196
+
+J50. Cooper, Rory A., George Smolinski, Jorge L. Candiotti, Shantanu Satpute, Garrett G. Grindle, Tawnee L. Sparling, Michelle J. Nordstrom, Xiaoning Yuan, Allison Symsack, Chang Dae Lee, and et al. 2024. "Current State, Needs, and Opportunities for Wearable Robots in Military Medical Rehabilitation and Force Protection" Actuators 13, no. 7: 236. https://doi.org/10.3390/act13070236
+
+J49. Vanderlinden, A. O., Nevisipour, M., Sugar, T., Lee, H. “Reduced trunk movement control during motor dual-tasking in older adults.” Human Movement Science 95 (2024). https://doi.org/10.1016/j.humov.2024.103223.
+
+J48. Mende, M., Noble, S. & Sugar, T. From homo sapiens to homo superior? Wearable robotics as the platform for transhumanist marketing. J. of the Acad. Mark. Sci. 51, 757–766 (2023). https://doi.org/10.1007/s11747-023-00949-z
+
 J47. Nevisipour, Masood, Thomas Sugar, and Hyunglae Lee. "Multi-tasking deteriorates trunk movement control during and after obstacle avoidance." Human Movement Science 87 (2023): 103053.
 
 J46. Li, Dongting, Emiliano Quinones Yumbla, Alyssa Olivas, Thomas Sugar, Heni Ben Amor, Hyunglae Lee, Wenlong Zhang, and Daniel M. Aukes. "Origami-Inspired Wearable Robot for Trunk Support." IEEE/ASME Transactions on Mechatronics (2022), doi: 10.1109/TMECH.2022.3220136.
@@ -120,6 +130,21 @@ Lower-Limb Wearable Robotics, Thomas G. Sugar, David Armstrong, Bijan Najafi, Sa
 Shaoping Bai, Gurvinder Virk, Thomas Sugar, Wearable Robots, IEC
 
 ## Patents
+
+Somatosensation device for loss of feeling in the foot, T. Sugar, C. Vignola, 2021.
+
+P13. Passive Exoskeleton for Sit-To-Stand and Stand-To-Sit Transfer, J. Okun, T. Sugar, 12,465,543, 2025.
+
+Hip Exoskeleton for Lifting and Pushing, T. Sugar, K. Hollander, 2020.
+
+Hip Exoskeleton Structure for Lifting and Pushing, T. Sugar, K. Hollander, D. Kinney, W. Brandon Martin, 2020.
+
+Soft Robotic Ankle, S. Amatya, A. S. Lafmejani, S. Poddar, S. Sridar, T. Sugar, P. Polygerinos, 2019
+
+P12. Assistive Device for Patients with Somatosensation Deficiency, L Lopez, L. Griffith, R. Parmentier, T. Sugar, S. Sridar, P. Nguyen, US12,220,369 2025.
+
+P11. Soft Hip Extension Device to Aid Hemiparetic Gait, A Ptel, R. Borneman, O. Save, Y. Govada, S. Sridar, P. Nguyen, T. Sugar, US12,076,135, September 2024
+Ataxia Reactive Compression Sleeve, Y. Gajendran, J. McMillan, H. Moon, J. Pace, S. Sridar, T. Sugar, P. Nguyen, 2019
 
 P10. Soft Wearable Robotic Device to Treat Plantarflexion Contractures, B Shuch, C. Kulkarni, S. Katarey, H. Dangaich, S. Stridar, Ph. Nguyn, T. Sugar, US11,337,879 B2, May 24, 2022
 
