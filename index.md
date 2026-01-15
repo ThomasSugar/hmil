@@ -73,6 +73,8 @@ carousel-images:
 
 ## News
 
+* <a href="https://exoskeletonreport.com/event/wearracon-europe-2025/" title="WearRAcon 2025"> WearRAcon 2025
+ 
 * <a href="https://exoskeletonreport.com/2023/04/exoskeleton-evolution-key-highlights-and-takeaways-from-wearracon-23-part-1/" title="WearRAcon 2023a"> WearRAcon 2023a
   
 * <a href="https://exoskeletonreport.com/2023/04/exoskeleton-evolution-key-highlights-and-takeaways-from-wearracon-23-part-2/" title="WearRAcon 2023b"> WearRAcon 2023b
