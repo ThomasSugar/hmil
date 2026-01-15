@@ -10,13 +10,13 @@ Dr. Thomas Sugar works in the areas of wearable robotics, rehabilitation, and ga
 
 Dr. Sugar leads a research effort in wearable robotic systems. He is developing robotic orthoses and prostheses for rehabilitation and enhanced mobility. His current research projects include HeSA, APEx, SPARKy, Spring Ankle with Regenerative Kinetics, a powered prosthetic ankle, PAFO, a powered ankle foot orthosis, and wearable exoskeletons for enhanced gait performance.
 
-Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Association. The Wearable Robotics Association will host a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.
+Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Association. The Wearable Robotics Association hosted a wearable robotics conference, WearRAcon, in Phoenix on an annual basis.  Currently, a European conference has been hosted in 2021, 2023, and 2025.
 
 </div>
 
 ###  We must find the time to stop and thank the people who make a difference in our lives., JFK
 
-* Mr. Ryan Bellman, Lead engineer at Mobility Research, Tempe, AZ
+* Mr. Ryan Bellman, was a Lead engineer at Mobility Research, Tempe, AZ
 * Dr. Alex Boehler with his mechatronics  started <a href="https://www.roboticelements.com/" title="Mechatronics"> Robotic Elements 
 * Mr. Theirry Flaven who was the lab manager for many years
 * Dr. Joseph Hitt whose vision has created and started <a href="https://www.goxlabs.com/" title="GoX Labsgo"> GoX Labs
@@ -33,10 +33,10 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 
 
 ## Graduate Students
-* Claudio Vignola, PhD
+* Jake Okun, PhD student
 
 ## Undergraduate Students
-* Jake Okun
+* many Barrett Undergraduate students
 
 ## Alumni
 
@@ -48,6 +48,7 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Robert Holgate, PhD in Mechanical Engineering, graduated 2017
 * W. Brandon Martin, PhD in Systems Engineering, graduated 2021
 * Alex Boehler, PhD in Systems Engineering, graduated 2021
+* Claudio Vignola, PhD in Systems Engineering, graduated 2023
 
 * Anthony Suluh, MS in Mechanical Engineering, graduated 2001
 * Keshav Munhdra, MS in Mechanical Engineering, graduated 2002
@@ -119,4 +120,8 @@ Barrett Honors Theses
 * Bryan Carlton
 * Reagen Gillespie
 * Tallin Speek
+* Tyler Hayes
+* Todd Hayes
+* Alexander Wada
+* Yumi Toulegenova
 
