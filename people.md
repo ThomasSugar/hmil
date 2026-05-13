@@ -2,7 +2,7 @@
 title: People
 ---
 
-## Tom Sugar, Ph.D., PE, Principal Investigator, [CV](cvsugar.pdf)
+## Tom Sugar, Ph.D., PE (DE), Principal Investigator, [CV](cvsugar.pdf)
 <div class="row">
 <img src="{{ site.base_path }}/assets/images/tom_headshot.jpg" height="300px" align="left">
 
@@ -81,6 +81,9 @@ Dr. Sugar also has co-founded SpringActive, Inc and the Wearable Robotics Associ
 * Aundre Garcia, Applied Project, 2020
 * Animesh Tewari, Applied Project, 2021
 * Gerard Fusaro, Applied Project, 2022
+* Tyler Hayes, Applied Project, 2026
+* Justin Hanson, Applied Project, 2026
+* Dawson Rockers, Applied Project, 2026
 
 Exchange Students
 * Kurt Baurenfeind
@@ -124,4 +127,8 @@ Barrett Honors Theses
 * Todd Hayes
 * Alexander Wada
 * Yumi Toulegenova
+* Alex Comeaux
+* Shaurya Manglik
+* Zack Meuck
+* Alex Dooley
 
