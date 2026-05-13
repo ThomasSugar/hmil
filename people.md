@@ -122,6 +122,7 @@ Barrett Honors Theses
 * Jacob Yoshitake
 * Bryan Carlton
 * Reagen Gillespie
+* Jake Okun
 * Tallin Speek
 * Tyler Hayes
 * Todd Hayes
